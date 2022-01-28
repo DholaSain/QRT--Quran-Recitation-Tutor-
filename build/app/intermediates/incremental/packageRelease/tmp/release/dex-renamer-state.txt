@@ -1,4 +1,0 @@
-#Fri Jan 28 01:27:32 PKT 2022
-base.0=/Users/dholasain/Documents/quranapp/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

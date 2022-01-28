@@ -392,6 +392,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.4.3"
+  tflite_audio:
+    dependency: "direct dev"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "432848bcf483d5cf40e94e44ab9a02a07e9fd2d1"
+      url: "https://github.com/Caldarie/flutter_tflite_audio"
+    source: git
+    version: "0.2.2+3"
   typed_data:
     dependency: transitive
     description:

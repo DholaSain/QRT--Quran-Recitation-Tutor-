@@ -41,6 +41,12 @@ android {
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
+    aaptOptions {
+        noCompress 'tflite'
+    }
+    lintOptions {
+        disable 'InvalidPackage'
+    }
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
@@ -50,6 +56,8 @@ android {
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
     }
+
+    
 
     buildTypes {
         release {
@@ -66,6 +74,7 @@ flutter {
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation "org.tensorflow:tensorflow-lite-select-tf-ops:+"
     implementation platform('com.google.firebase:firebase-bom:29.0.4')
     implementation 'com.google.firebase:firebase-analytics'
 }

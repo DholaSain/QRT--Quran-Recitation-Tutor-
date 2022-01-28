@@ -38,10 +38,14 @@ dependencies:
   flutter_sound: ^9.1.0
   firebase_core: ^1.12.0
   cloud_firestore: ^3.1.6
+  # tflite: ^1.1.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  tflite_audio:
+    git:
+      url: https://github.com/Caldarie/flutter_tflite_audio
   flutter_native_splash: ^1.3.3
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is

@@ -4,6 +4,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:quranapp/views/Test/test_view.dart';
+import 'package:quranapp/views/Test/test_view_old.dart';
 
 class HomeView extends StatelessWidget {
   HomeView({Key? key}) : super(key: key);
@@ -26,15 +27,8 @@ class HomeView extends StatelessWidget {
                       // color: Colors.red,
                     );
             }),
-            const SizedBox(height: 20),
-            const Text(
-              'Lesson 1',
-              style: TextStyle(
-                fontWeight: FontWeight.bold,
-                fontSize: 30,
-              ),
-            ),
-            const SizedBox(height: 10),
+            const SizedBox(height: 15),
+            Image.asset('assets/02.jpeg'),
             Directionality(
               textDirection: TextDirection.rtl,
               child: GridView.builder(

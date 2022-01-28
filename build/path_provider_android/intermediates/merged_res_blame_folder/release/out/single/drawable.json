@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dholasain/Documents/quranapp/build/path_provider_android/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/dholasain/.gradle/caches/transforms-2/files-2.1/4501684f105f116204225bd71498665d/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/dholasain/Documents/quranapp/build/path_provider_android/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/dholasain/.gradle/caches/transforms-2/files-2.1/4501684f105f116204225bd71498665d/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/dholasain/Documents/quranapp/build/path_provider_android/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/dholasain/.gradle/caches/transforms-2/files-2.1/4501684f105f116204225bd71498665d/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/dholasain/Documents/quranapp/build/path_provider_android/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/dholasain/.gradle/caches/transforms-2/files-2.1/4501684f105f116204225bd71498665d/core-1.6.0/res/drawable/notification_bg_low.xml"
+    }
+]

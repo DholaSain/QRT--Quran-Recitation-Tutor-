@@ -1,0 +1,2023 @@
+androidx.core.widget.NestedScrollView: void setOnScrollChangeListener(androidx.core.widget.NestedScrollView$OnScrollChangeListener)
+androidx.appcompat.widget.Toolbar: androidx.appcompat.widget.ActionMenuPresenter getOuterActionMenuPresenter()
+com.google.firestore.v1.DocumentRemove: int removedTargetIdsMemoizedSerializedSize
+androidx.appcompat.widget.Toolbar: int getTitleMarginStart()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void resetAnalyticsData(long)
+com.google.firestore.v1.TransactionOptions$ReadOnly: com.google.protobuf.Parser PARSER
+androidx.appcompat.widget.ContentFrameLayout
+io.flutter.embedding.engine.FlutterJNI: void nativeCleanupMessageData(long)
+com.google.firestore.v1.DocumentTransform$FieldTransform: int REMOVE_ALL_FROM_ARRAY_FIELD_NUMBER
+androidx.appcompat.widget.SearchView: void setSubmitButtonEnabled(boolean)
+com.google.firebase.installations.remote.InstallationResponse$ResponseCode: com.google.firebase.installations.remote.InstallationResponse$ResponseCode[] values()
+com.google.android.gms.internal.measurement.zzgf
+com.google.firestore.v1.ListenRequest
+com.google.firestore.v1.StructuredQuery$FieldFilter: int FIELD_FIELD_NUMBER
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+android.support.v4.media.MediaBrowserCompat$SearchResultReceiver
+com.google.firebase.firestore.core.Query$LimitType: com.google.firebase.firestore.core.Query$LimitType valueOf(java.lang.String)
+com.google.android.gms.common.api.internal.LifecycleCallback
+com.google.firebase.installations.remote.TokenResult$ResponseCode: com.google.firebase.installations.remote.TokenResult$ResponseCode[] values()
+androidx.activity.ImmLeaksCleaner
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+com.google.firestore.v1.StructuredQuery$CompositeFilter$Operator: com.google.firestore.v1.StructuredQuery$CompositeFilter$Operator valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeOnVsync(long,long,long)
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+androidx.appcompat.widget.SearchView: int getPreferredWidth()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchEmptyPlatformMessage(long,java.lang.String,int)
+com.google.protobuf.GeneratedMessageLite$MethodToInvoke: com.google.protobuf.GeneratedMessageLite$MethodToInvoke valueOf(java.lang.String)
+com.google.firebase.firestore.proto.NoDocument
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzF
+com.google.firestore.v1.Document: java.lang.String name_
+androidx.appcompat.widget.AppCompatTextView: void setPrecomputedText(androidx.core.text.PrecomputedTextCompat)
+io.grpc.InternalChannelz$ChannelTrace$Event$Severity: io.grpc.InternalChannelz$ChannelTrace$Event$Severity[] values()
+com.google.firestore.v1.StructuredQuery$Order: int FIELD_FIELD_NUMBER
+androidx.appcompat.widget.AppCompatCheckBox
+com.google.firebase.firestore.remote.ConnectivityMonitor$NetworkStatus: com.google.firebase.firestore.remote.ConnectivityMonitor$NetworkStatus[] values()
+androidx.appcompat.widget.AppCompatSpinner: int getDropDownVerticalOffset()
+io.flutter.embedding.engine.FlutterJNI: void markTextureFrameAvailable(long)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+com.google.protobuf.Timestamp: com.google.protobuf.Timestamp DEFAULT_INSTANCE
+com.google.firebase.firestore.proto.UnknownDocument: java.lang.String name_
+com.google.protobuf.Any
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setTranslateY(float)
+com.google.firestore.v1.CommitRequest: int TRANSACTION_FIELD_NUMBER
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityDelegate(io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate)
+androidx.appcompat.widget.AppCompatImageButton: android.graphics.PorterDuff$Mode getSupportImageTintMode()
+com.google.android.gms.internal.measurement.zzej: boolean zzk
+com.google.android.gms.internal.measurement.zzfy: long zzx
+com.google.firebase.firestore.core.FieldFilter$Operator: com.google.firebase.firestore.core.FieldFilter$Operator valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzej: com.google.android.gms.internal.measurement.zzej zza
+com.google.firestore.v1.DocumentTransform: java.lang.String document_
+com.google.firebase.firestore.proto.NoDocument: java.lang.String name_
+com.google.firestore.v1.StructuredQuery: int START_AT_FIELD_NUMBER
+com.squareup.okhttp.Protocol: com.squareup.okhttp.Protocol[] values()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setHasNonEmbeddedTabs(boolean)
+com.google.android.gms.internal.measurement.zzgo: int zze
+androidx.appcompat.widget.ActionBarOverlayLayout: void setUiOptions(int)
+com.google.android.gms.internal.measurement.zzfa: int zzi
+io.flutter.view.AccessibilityViewEmbedder: int nextFlutterId
+com.google.protobuf.FieldType: com.google.protobuf.FieldType valueOf(java.lang.String)
+androidx.lifecycle.SingleGeneratedAdapterObserver
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: ImeSyncDeferringInsetsCallback$AnimationCallback(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+com.google.android.gms.internal.measurement.zzgk
+io.flutter.plugin.platform.SingleViewPresentation: android.widget.FrameLayout container
+io.flutter.embedding.engine.FlutterJNI: void ensureNotAttachedToNative()
+androidx.appcompat.widget.AppCompatCheckBox: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+com.google.firestore.v1.StructuredQuery: com.google.firestore.v1.StructuredQuery$Filter where_
+com.google.firestore.v1.StructuredQuery: com.google.firestore.v1.Cursor startAt_
+com.google.android.gms.internal.measurement.zzel
+com.google.android.gms.internal.measurement.zzgf: com.google.android.gms.internal.measurement.zzkd zzg
+androidx.activity.ComponentActivity$3
+androidx.appcompat.widget.LinearLayoutCompat
+androidx.appcompat.widget.ViewStubCompat: void setVisibility(int)
+com.google.firestore.v1.StructuredQuery$FieldFilter: int OP_FIELD_NUMBER
+com.google.firestore.v1.ExistenceFilter: com.google.firestore.v1.ExistenceFilter DEFAULT_INSTANCE
+io.flutter.plugins.firebase.core.FlutterFirebasePlugin: com.google.android.gms.tasks.Task didReinitializeFirebaseCore()
+com.google.android.gms.internal.measurement.zzfi
+com.google.firestore.v1.TransactionOptions: com.google.protobuf.Parser PARSER
+io.flutter.embedding.engine.FlutterOverlaySurface: int getId()
+io.grpc.okhttp.internal.framed.ErrorCode: io.grpc.okhttp.internal.framed.ErrorCode[] values()
+androidx.appcompat.widget.Toolbar: int getContentInsetEndWithActions()
+com.google.firebase.firestore.FirestoreRegistrar
+androidx.appcompat.widget.SearchView: void setAppSearchData(android.os.Bundle)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$302(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getNavigationContentDescription()
+com.google.android.gms.internal.measurement.zzfi: com.google.android.gms.internal.measurement.zzfi zza
+com.dooboolab.TauEngine.Flauto$t_LOG_LEVEL: com.dooboolab.TauEngine.Flauto$t_LOG_LEVEL[] values()
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mOrigin
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle lifecycle
+androidx.media.AudioAttributesCompatParcelizer: AudioAttributesCompatParcelizer()
+com.google.firestore.v1.ListenRequest: int LABELS_FIELD_NUMBER
+com.google.firestore.v1.TargetChange: com.google.protobuf.Timestamp readTime_
+com.google.firestore.v1.ListenRequest: int REMOVE_TARGET_FIELD_NUMBER
+com.google.android.gms.internal.measurement.zzjp: com.google.android.gms.internal.measurement.zzjp[] values()
+androidx.appcompat.widget.LinearLayoutCompat: int getShowDividers()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setWindowTitle(java.lang.CharSequence)
+androidx.appcompat.widget.AppCompatImageButton: android.content.res.ColorStateList getSupportBackgroundTintList()
+com.google.firestore.v1.Document: com.google.protobuf.Parser PARSER
+com.google.firestore.v1.BatchGetDocumentsResponse
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackLibraryPath
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: float getAlpha()
+com.google.firestore.v1.Value$ValueTypeCase: com.google.firestore.v1.Value$ValueTypeCase valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzej
+com.google.firestore.v1.StructuredQuery$UnaryFilter: int FIELD_FIELD_NUMBER
+com.google.common.util.concurrent.AbstractFuture: java.lang.Object value
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$400(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+com.google.firebase.analytics.FirebaseAnalytics
+com.google.android.gms.measurement.internal.zzp: android.os.Parcelable$Creator CREATOR
+com.google.firebase.firestore.proto.NoDocument: int READ_TIME_FIELD_NUMBER
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager deferredComponentManager
+androidx.appcompat.widget.AppCompatImageView: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getScaleY()
+androidx.appcompat.widget.AppCompatTextView: void setBackgroundResource(int)
+com.google.firestore.v1.WriteResult: int UPDATE_TIME_FIELD_NUMBER
+android.support.v4.graphics.drawable.IconCompatParcelizer
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getObservatoryUri()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: int getStrokeColor()
+com.google.android.gms.internal.measurement.zzej: com.google.android.gms.internal.measurement.zzke zzh
+com.google.firebase.firestore.proto.Target: int targetId_
+androidx.appcompat.widget.AppCompatTextView: void setFirstBaselineToTopHeight(int)
+com.google.protobuf.Writer$FieldOrder: com.google.protobuf.Writer$FieldOrder[] values()
+com.google.firebase.Timestamp: android.os.Parcelable$Creator CREATOR
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getStrokeWidth()
+com.google.firebase.firestore.local.QueryPurpose: com.google.firebase.firestore.local.QueryPurpose[] values()
+com.google.firestore.bundle.BundledQuery: int queryTypeCase_
+com.google.firestore.v1.Target: boolean once_
+io.flutter.embedding.engine.FlutterJNI: void attachToNative()
+com.google.firebase.firestore.remote.Stream$State: com.google.firebase.firestore.remote.Stream$State[] values()
+com.google.firestore.v1.Cursor: com.google.protobuf.Parser PARSER
+io.grpc.okhttp.OkHttpFrameLogger$Direction: io.grpc.okhttp.OkHttpFrameLogger$Direction[] values()
+androidx.versionedparcelable.CustomVersionedParcelable
+com.google.firestore.v1.DocumentTransform: com.google.protobuf.Parser PARSER
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI nativeSpawn(long,java.lang.String,java.lang.String,java.lang.String)
+androidx.appcompat.widget.FitWindowsLinearLayout
+androidx.core.app.CoreComponentFactory
+com.google.firestore.v1.WriteResult: com.google.protobuf.Timestamp updateTime_
+io.grpc.okhttp.internal.TlsVersion: io.grpc.okhttp.internal.TlsVersion valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzki: com.google.android.gms.internal.measurement.zzki[] values()
+androidx.appcompat.widget.AppCompatCheckBox: void setButtonDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.AppCompatTextView: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+com.google.protobuf.JavaType: com.google.protobuf.JavaType valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind[] values()
+com.google.firestore.v1.StructuredQuery$Filter: com.google.firestore.v1.StructuredQuery$Filter DEFAULT_INSTANCE
+com.google.android.gms.internal.measurement.zzfc
+androidx.core.content.ContextCompat$Api16Impl: void startActivities(android.content.Context,android.content.Intent[],android.os.Bundle)
+com.google.android.gms.internal.measurement.zzgm: com.google.android.gms.internal.measurement.zzgm zza
+com.google.rpc.Status: int DETAILS_FIELD_NUMBER
+com.google.firestore.admin.v1.Index: java.lang.String name_
+com.google.firestore.v1.StructuredQuery$Filter$FilterTypeCase: com.google.firestore.v1.StructuredQuery$Filter$FilterTypeCase valueOf(java.lang.String)
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getFixedHeightMinor()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifier(int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setDefaultEventParameters(android.os.Bundle)
+androidx.appcompat.widget.Toolbar
+androidx.core.content.ContextCompat$Api24Impl: java.io.File getDataDir(android.content.Context)
+com.google.firestore.v1.DocumentDelete: java.lang.String document_
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: AppCompatAutoCompleteTextView(android.content.Context,android.util.AttributeSet)
+com.google.android.gms.measurement.AppMeasurementJobService: AppMeasurementJobService()
+com.google.android.gms.internal.measurement.zzgk: com.google.android.gms.internal.measurement.zzke zze
+androidx.appcompat.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context,android.util.AttributeSet)
+com.google.firestore.v1.Write: int CURRENT_DOCUMENT_FIELD_NUMBER
+androidx.appcompat.widget.AppCompatImageButton: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.appcompat.widget.Toolbar: void setLogoDescription(int)
+androidx.appcompat.widget.AppCompatImageView: void setSupportImageTintMode(android.graphics.PorterDuff$Mode)
+com.google.firestore.v1.WriteResult: int TRANSFORM_RESULTS_FIELD_NUMBER
+com.google.protobuf.FieldType: com.google.protobuf.FieldType[] values()
+androidx.appcompat.widget.AppCompatSpinner: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.SearchView: void setIconifiedByDefault(boolean)
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackName
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void clearConditionalUserProperty(java.lang.String,java.lang.String,android.os.Bundle)
+com.google.firestore.v1.Value: int GEO_POINT_VALUE_FIELD_NUMBER
+androidx.appcompat.widget.AppCompatImageButton: void setImageDrawable(android.graphics.drawable.Drawable)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$402(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.WindowInsets)
+com.google.firestore.v1.ListenResponse: int DOCUMENT_DELETE_FIELD_NUMBER
+com.google.firestore.v1.Value: int valueTypeCase_
+com.google.firestore.v1.Target$QueryTarget: com.google.protobuf.Parser PARSER
+com.google.firestore.v1.Cursor: com.google.firestore.v1.Cursor DEFAULT_INSTANCE
+com.google.android.gms.internal.measurement.zzgh: java.lang.String zzh
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessage(java.lang.String,java.nio.ByteBuffer,int,long)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setTranslateX(float)
+androidx.appcompat.widget.AppCompatImageView: android.content.res.ColorStateList getSupportImageTintList()
+com.google.android.gms.common.util.DynamiteApi
+com.google.android.gms.internal.measurement.zzfc: long zzf
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getLogoDescription()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void onActivityPaused(com.google.android.gms.dynamic.IObjectWrapper,long)
+androidx.core.widget.NestedScrollView: NestedScrollView(android.content.Context,android.util.AttributeSet)
+com.google.android.gms.common.internal.ReflectedParcelable
+androidx.appcompat.view.menu.ListMenuItemView: androidx.appcompat.view.menu.MenuItemImpl getItemData()
+com.google.firestore.admin.v1.Index$IndexField
+androidx.appcompat.widget.AppCompatTextView: int getAutoSizeMinTextSize()
+androidx.appcompat.widget.LinearLayoutCompat: int getBaseline()
+com.google.firebase.firestore.proto.Target: java.lang.Object targetType_
+androidx.appcompat.widget.AppCompatButton: int getAutoSizeMaxTextSize()
+io.flutter.embedding.android.FlutterImageView
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix finalMatrix
+androidx.appcompat.widget.LinearLayoutCompat: int getBaselineAlignedChildIndex()
+com.google.firebase.installations.remote.TokenResult$ResponseCode: com.google.firebase.installations.remote.TokenResult$ResponseCode valueOf(java.lang.String)
+com.google.firestore.v1.TargetChange: int READ_TIME_FIELD_NUMBER
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: AppMeasurementDynamiteService()
+android.support.v4.media.session.ParcelableVolumeInfo
+androidx.appcompat.widget.AppCompatButton: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.media.AudioAttributesImplBase
+io.flutter.embedding.engine.FlutterJNI: void onBeginFrame()
+com.google.firestore.v1.StructuredQuery: int WHERE_FIELD_NUMBER
+androidx.media.AudioAttributesImplApi26Parcelizer: androidx.media.AudioAttributesImplApi26 read(androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.internal.measurement.zzgo: com.google.android.gms.internal.measurement.zzgk zzg
+com.google.firebase.firestore.proto.MaybeDocument: boolean hasCommittedMutations_
+com.google.firestore.v1.StructuredQuery$FieldFilter: com.google.firestore.v1.Value value_
+androidx.appcompat.widget.Toolbar: int getContentInsetStart()
+com.google.firestore.v1.Write: int UPDATE_MASK_FIELD_NUMBER
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void onActivitySaveInstanceState(com.google.android.gms.dynamic.IObjectWrapper,com.google.android.gms.internal.measurement.zzcf,long)
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness[] values()
+com.google.firestore.v1.StructuredQuery$Filter: int COMPOSITE_FILTER_FIELD_NUMBER
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VectorDrawableCompatState: int getChangingConfigurations()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void logEvent(java.lang.String,java.lang.String,android.os.Bundle,boolean,boolean,long)
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: DynamiteModule$DynamiteLoaderClassLoader()
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.appcompat.widget.AppCompatImageButton: void setImageBitmap(android.graphics.Bitmap)
+com.google.protobuf.Timestamp
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setScaleY(float)
+io.grpc.okhttp.internal.framed.HeadersMode: io.grpc.okhttp.internal.framed.HeadersMode[] values()
+com.google.firestore.v1.StructuredQuery: com.google.protobuf.Parser PARSER
+com.google.firebase.installations.FirebaseInstallationsRegistrar
+com.google.firestore.v1.Target: int RESUME_TOKEN_FIELD_NUMBER
+io.flutter.embedding.engine.FlutterJNI: boolean loadLibraryCalled
+com.google.firebase.firestore.Query$Direction: com.google.firebase.firestore.Query$Direction valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzgo: com.google.android.gms.internal.measurement.zzke zzf
+com.google.android.gms.internal.measurement.zzfy: long zzC
+com.google.android.gms.internal.measurement.zzfa: com.google.android.gms.internal.measurement.zzfa zza
+com.google.firebase.firestore.FirebaseFirestore
+androidx.appcompat.widget.SearchView: int getPreferredHeight()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setUserProperty(java.lang.String,java.lang.String,com.google.android.gms.dynamic.IObjectWrapper,boolean,long)
+androidx.fragment.app.Fragment$2
+androidx.appcompat.widget.ActionBarOverlayLayout: java.lang.CharSequence getTitle()
+com.google.firestore.v1.StructuredQuery$CompositeFilter$Operator: com.google.firestore.v1.StructuredQuery$CompositeFilter$Operator[] values()
+com.google.android.gms.internal.measurement.zzes: boolean zzk
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: long mTimeToLive
+androidx.appcompat.widget.AppCompatImageButton: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.AppCompatButton: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+com.google.firestore.v1.StructuredQuery: int END_AT_FIELD_NUMBER
+com.google.firestore.bundle.BundledQuery: com.google.protobuf.Parser PARSER
+androidx.appcompat.widget.AppCompatButton: void setSupportCompoundDrawablesTintList(android.content.res.ColorStateList)
+com.google.firestore.v1.StructuredQuery$CollectionSelector: java.lang.String collectionId_
+com.google.android.gms.internal.measurement.zzej: int zzf
+com.google.firestore.v1.DocumentMask: com.google.protobuf.Internal$ProtobufList fieldPaths_
+com.google.firestore.v1.StructuredQuery$FieldFilter$Operator: com.google.firestore.v1.StructuredQuery$FieldFilter$Operator[] values()
+com.google.firestore.v1.Cursor: boolean before_
+com.google.firebase.firestore.remote.WatchChange$WatchTargetChangeType: com.google.firebase.firestore.remote.WatchChange$WatchTargetChangeType[] values()
+com.google.firebase.installations.FirebaseInstallationsRegistrar: FirebaseInstallationsRegistrar()
+com.google.firestore.v1.TargetChange: int targetIdsMemoizedSerializedSize
+io.flutter.embedding.android.FlutterActivity: FlutterActivity()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setConsent(android.os.Bundle,long)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setTrimPathEnd(float)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo createAccessibilityNodeInfo(int)
+io.flutter.embedding.engine.FlutterJNI: void dispatchPlatformMessage(java.lang.String,java.nio.ByteBuffer,int,int)
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness[] values()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$InsetsListener insetsListener
+com.google.protobuf.Timestamp: com.google.protobuf.Parser PARSER
+io.flutter.embedding.engine.FlutterJNI: void nativeRunBundleAndSnapshotFromLibrary(long,java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager)
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode[] values()
+com.google.android.gms.internal.measurement.zzex
+androidx.appcompat.widget.AbsActionBarView: AbsActionBarView(android.content.Context,android.util.AttributeSet)
+com.google.firebase.firestore.proto.NoDocument: int NAME_FIELD_NUMBER
+androidx.appcompat.widget.ViewStubCompat: int getInflatedId()
+com.google.android.gms.internal.measurement.zzfs
+io.flutter.embedding.engine.FlutterOverlaySurface: int id
+androidx.appcompat.widget.SearchView: void setOnQueryTextFocusChangeListener(android.view.View$OnFocusChangeListener)
+com.google.android.gms.measurement.AppMeasurement: void beginAdUnitExposure(java.lang.String)
+androidx.appcompat.widget.ContentFrameLayout: void setAttachListener(androidx.appcompat.widget.ContentFrameLayout$OnAttachListener)
+com.google.android.gms.internal.measurement.zzgb: com.google.android.gms.internal.measurement.zzke zzg
+com.google.firestore.v1.WriteResponse: int WRITE_RESULTS_FIELD_NUMBER
+io.grpc.okhttp.internal.Platform$TlsExtensionType: io.grpc.okhttp.internal.Platform$TlsExtensionType[] values()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void updateJavaAssetManager(android.content.res.AssetManager,java.lang.String)
+com.google.firebase.firestore.FirebaseFirestoreException$Code: com.google.firebase.firestore.FirebaseFirestoreException$Code valueOf(java.lang.String)
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getMinWidthMinor()
+com.google.type.LatLng: double longitude_
+com.google.firestore.v1.TransactionOptions
+com.google.android.gms.internal.measurement.zzfq
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setCustomSelectionActionModeCallback(android.view.ActionMode$Callback)
+com.google.firestore.v1.Precondition: com.google.protobuf.Parser PARSER
+com.google.android.gms.internal.measurement.zzfy: int zzR
+androidx.appcompat.widget.SearchView
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPath
+com.google.firestore.v1.BatchGetDocumentsResponse: com.google.protobuf.ByteString transaction_
+com.google.firestore.v1.StructuredQuery$Filter
+androidx.core.widget.NestedScrollView: float getVerticalScrollFactorCompat()
+com.google.firestore.v1.DocumentChange: com.google.firestore.v1.DocumentChange DEFAULT_INSTANCE
+androidx.appcompat.widget.ActionMenuView: void setPopupTheme(int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getTrimPathStart()
+com.google.firestore.v1.Cursor: int VALUES_FIELD_NUMBER
+com.google.firestore.v1.StructuredQuery: int ORDER_BY_FIELD_NUMBER
+com.google.firestore.v1.ArrayValue
+com.google.android.gms.internal.measurement.zzfo: long zzh
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: void setBackgroundResource(int)
+com.google.firestore.v1.ExistenceFilter: int count_
+com.google.firebase.firestore.Query$Direction: com.google.firebase.firestore.Query$Direction[] values()
+com.google.firestore.v1.DocumentTransform$FieldTransform: com.google.protobuf.Parser PARSER
+io.grpc.okhttp.NegotiationType: io.grpc.okhttp.NegotiationType valueOf(java.lang.String)
+io.grpc.internal.GrpcUtil$Http2Error: io.grpc.internal.GrpcUtil$Http2Error valueOf(java.lang.String)
+com.google.firestore.v1.Target$QueryTarget: int queryTypeCase_
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzq
+io.flutter.embedding.android.FlutterSurfaceView
+io.flutter.embedding.engine.FlutterJNI: void nativeDestroy(long)
+io.grpc.internal.MessageDeframer$State: io.grpc.internal.MessageDeframer$State valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzfy: com.google.android.gms.internal.measurement.zzkc zzU
+androidx.lifecycle.ReportFragment$LifecycleCallbacks
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VectorDrawableDelegateState
+com.google.android.gms.internal.measurement.zzfy: int zzD
+com.google.firestore.v1.StructuredQuery$UnaryFilter: com.google.firestore.v1.StructuredQuery$UnaryFilter DEFAULT_INSTANCE
+com.google.firestore.v1.Value: java.lang.Object valueType_
+io.flutter.plugins.GeneratedPluginRegistrant
+com.google.firestore.v1.BatchGetDocumentsResponse: int MISSING_FIELD_NUMBER
+com.google.firestore.v1.BatchGetDocumentsResponse: com.google.firestore.v1.BatchGetDocumentsResponse DEFAULT_INSTANCE
+androidx.media.AudioAttributesImplApi21Parcelizer: androidx.media.AudioAttributesImplApi21 read(androidx.versionedparcelable.VersionedParcel)
+com.google.firestore.v1.ListenResponse$ResponseTypeCase: com.google.firestore.v1.ListenResponse$ResponseTypeCase[] values()
+io.grpc.okhttp.OkHttpChannelBuilder
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mTriggeredEventName
+androidx.appcompat.widget.AppCompatImageButton: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+com.google.firestore.v1.Value: int INTEGER_VALUE_FIELD_NUMBER
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView
+com.google.android.gms.measurement.AppMeasurementService
+io.flutter.embedding.engine.FlutterJNI: void nativeImageHeaderCallback(long,int,int)
+androidx.appcompat.widget.AppCompatTextView: void setTextClassifier(android.view.textclassifier.TextClassifier)
+com.google.firestore.v1.StructuredQuery$UnaryFilter: int op_
+androidx.appcompat.widget.AppCompatButton: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.appcompat.widget.ActionMenuView: void setOnMenuItemClickListener(androidx.appcompat.widget.ActionMenuView$OnMenuItemClickListener)
+io.flutter.embedding.android.FlutterSurfaceView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.core.widget.NestedScrollView: float getBottomFadingEdgeStrength()
+androidx.appcompat.widget.ActionMenuView
+com.google.android.gms.internal.measurement.zzgh: com.google.android.gms.internal.measurement.zzgh zza
+androidx.core.content.ContextCompat$Api24Impl: android.content.Context createDeviceProtectedStorageContext(android.content.Context)
+com.google.android.gms.internal.measurement.zzfy: int zzh
+com.google.android.gms.internal.measurement.zzgf: int zze
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void onActivityCreated(com.google.android.gms.dynamic.IObjectWrapper,android.os.Bundle,long)
+com.google.firestore.v1.Target$QueryTarget: int PARENT_FIELD_NUMBER
+com.google.firestore.v1.CommitResponse: int WRITE_RESULTS_FIELD_NUMBER
+androidx.appcompat.widget.ActionBarOverlayLayout: void setActionBarVisibilityCallback(androidx.appcompat.widget.ActionBarOverlayLayout$ActionBarVisibilityCallback)
+com.google.android.gms.internal.measurement.zzgt: com.google.android.gms.internal.measurement.zzgt zza
+com.google.android.gms.internal.measurement.zzfu: int zze
+com.google.firestore.v1.DocumentMask
+com.google.firestore.v1.CommitResponse: com.google.protobuf.Internal$ProtobufList writeResults_
+androidx.appcompat.widget.ActionMenuView: void setPresenter(androidx.appcompat.widget.ActionMenuPresenter)
+androidx.appcompat.widget.AppCompatRadioButton: void setBackgroundResource(int)
+com.google.android.gms.internal.measurement.zzfq: com.google.android.gms.internal.measurement.zzfq zza
+androidx.appcompat.widget.AppCompatCheckBox: void setBackgroundResource(int)
+com.google.firestore.admin.v1.Index: int FIELDS_FIELD_NUMBER
+com.google.firestore.v1.TargetChange: int CAUSE_FIELD_NUMBER
+io.grpc.internal.DnsNameResolver$JdkAddressResolver: io.grpc.internal.DnsNameResolver$JdkAddressResolver[] values()
+com.google.firestore.v1.Write$OperationCase: com.google.firestore.v1.Write$OperationCase valueOf(java.lang.String)
+androidx.core.app.RemoteActionCompat
+androidx.appcompat.widget.Toolbar: android.widget.TextView getTitleTextView()
+androidx.appcompat.widget.SearchView: java.lang.CharSequence getQueryHint()
+com.google.android.gms.signin.internal.zak: android.os.Parcelable$Creator CREATOR
+com.google.firestore.v1.StructuredQuery$UnaryFilter: com.google.protobuf.Parser PARSER
+androidx.appcompat.widget.AppCompatButton: int getAutoSizeTextType()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$200(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.appcompat.widget.AppCompatTextView: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setInstanceIdProvider(com.google.android.gms.internal.measurement.zzck)
+com.google.firestore.v1.StructuredQuery$CollectionSelector: com.google.firestore.v1.StructuredQuery$CollectionSelector DEFAULT_INSTANCE
+com.google.firestore.v1.StructuredQuery: com.google.protobuf.Internal$ProtobufList orderBy_
+com.google.protobuf.WireFormat$JavaType: com.google.protobuf.WireFormat$JavaType[] values()
+androidx.appcompat.widget.ActionBarContextView: int getContentHeight()
+androidx.appcompat.widget.AppCompatSpinner: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+com.google.firebase.firestore.core.DocumentViewChange$Type: com.google.firebase.firestore.core.DocumentViewChange$Type[] values()
+com.google.android.gms.internal.measurement.zzcl: android.os.Parcelable$Creator CREATOR
+com.google.firestore.v1.DocumentRemove: int DOCUMENT_FIELD_NUMBER
+androidx.appcompat.widget.AppCompatButton: android.graphics.PorterDuff$Mode getSupportCompoundDrawablesTintMode()
+com.google.android.gms.common.zzs: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.measurement.zzfu: java.lang.String zzg
+com.google.firestore.v1.CommitResponse: com.google.firestore.v1.CommitResponse DEFAULT_INSTANCE
+com.google.firebase.installations.local.PersistedInstallation$RegistrationStatus: com.google.firebase.installations.local.PersistedInstallation$RegistrationStatus[] values()
+androidx.appcompat.widget.Toolbar: int getTitleMarginEnd()
+com.google.firestore.v1.DocumentChange: com.google.firestore.v1.Document document_
+com.google.android.gms.internal.measurement.zzfs: com.google.android.gms.internal.measurement.zzfs zza
+androidx.appcompat.widget.AppCompatTextView: android.graphics.PorterDuff$Mode getSupportCompoundDrawablesTintMode()
+androidx.appcompat.widget.LinearLayoutCompat: float getWeightSum()
+androidx.appcompat.widget.AppCompatEditText: void setTextClassifier(android.view.textclassifier.TextClassifier)
+com.google.firestore.v1.DocumentTransform: int FIELD_TRANSFORMS_FIELD_NUMBER
+androidx.media.AudioAttributesImplBaseParcelizer: void write(androidx.media.AudioAttributesImplBase,androidx.versionedparcelable.VersionedParcel)
+androidx.appcompat.view.menu.ExpandedMenuView: ExpandedMenuView(android.content.Context,android.util.AttributeSet)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getCurrentScreenName(com.google.android.gms.internal.measurement.zzcf)
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle splashScreenState
+android.support.v4.media.session.PlaybackStateCompat$CustomAction: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+com.google.firestore.v1.ArrayValue: com.google.protobuf.Internal$ProtobufList values_
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getTrimPathOffset()
+androidx.appcompat.widget.LinearLayoutCompat: android.graphics.drawable.Drawable getDividerDrawable()
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodeParent(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+com.google.android.gms.common.api.internal.LifecycleCallback: com.google.android.gms.common.api.internal.LifecycleFragment getChimeraLifecycleFragmentImpl(com.google.android.gms.common.api.internal.LifecycleActivity)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void onActivityDestroyed(com.google.android.gms.dynamic.IObjectWrapper,long)
+androidx.appcompat.widget.AppCompatSpinner: int getDropDownWidth()
+com.google.android.gms.internal.measurement.zzfw
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getFixedWidthMajor()
+io.grpc.ChannelLogger$ChannelLogLevel: io.grpc.ChannelLogger$ChannelLogLevel[] values()
+com.google.android.gms.measurement.AppMeasurement: void setConditionalUserProperty(com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty)
+androidx.core.widget.NestedScrollView: int getMaxScrollAmount()
+io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar: java.util.List getComponents()
+com.google.android.gms.internal.measurement.zzex: boolean zzh
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View view
+androidx.appcompat.widget.AppCompatImageButton: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback this$0
+io.flutter.embedding.engine.FlutterJNI: boolean initCalled
+androidx.appcompat.widget.LinearLayoutCompat: void setDividerPadding(int)
+com.google.firestore.v1.DocumentTransform$FieldTransform: java.lang.Object transformType_
+androidx.appcompat.widget.LinearLayoutCompat: int getGravity()
+io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+androidx.appcompat.widget.AppCompatImageView: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.media.AudioAttributesCompatParcelizer
+androidx.core.content.ContextCompat$Api16Impl: void startActivity(android.content.Context,android.content.Intent,android.os.Bundle)
+androidx.appcompat.widget.Toolbar: void setLogoDescription(java.lang.CharSequence)
+androidx.appcompat.widget.Toolbar: int getTitleMarginBottom()
+androidx.appcompat.widget.ScrollingTabContainerView: void setTabSelected(int)
+com.google.firebase.firestore.remote.Stream$State: com.google.firebase.firestore.remote.Stream$State valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzgh: double zzk
+com.google.firebase.firestore.proto.WriteBatch: com.google.protobuf.Timestamp localWriteTime_
+androidx.appcompat.widget.Toolbar: void setTitle(java.lang.CharSequence)
+com.google.firebase.firestore.proto.WriteBatch: com.google.protobuf.Parser PARSER
+com.google.firestore.admin.v1.Index$IndexField: int FIELD_PATH_FIELD_NUMBER
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map originToFlutterId
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$702(io.flutter.embedding.android.FlutterSplashView$SavedState,android.os.Bundle)
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: androidx.media.AudioAttributesImplApi21 read(androidx.versionedparcelable.VersionedParcel)
+io.grpc.okhttp.OkHttpChannelBuilder$NegotiationType: io.grpc.okhttp.OkHttpChannelBuilder$NegotiationType[] values()
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzfc: int zze
+androidx.appcompat.widget.AppCompatSpinner: void setPrompt(java.lang.CharSequence)
+io.grpc.okhttp.internal.Platform$TlsExtensionType: io.grpc.okhttp.internal.Platform$TlsExtensionType valueOf(java.lang.String)
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty
+com.google.firestore.v1.BatchGetDocumentsResponse: com.google.protobuf.Timestamp readTime_
+androidx.appcompat.widget.SearchView$SearchAutoComplete: int getSearchViewTextMinWidthDp()
+com.google.type.LatLng: double latitude_
+com.google.android.gms.common.zzq: android.os.Parcelable$Creator CREATOR
+io.grpc.okhttp.NegotiationType: io.grpc.okhttp.NegotiationType[] values()
+androidx.appcompat.widget.ActionBarContextView: void setVisibility(int)
+com.google.firestore.v1.StructuredQuery: com.google.firestore.v1.Cursor endAt_
+androidx.appcompat.widget.SearchView: int getImeOptions()
+com.google.android.gms.internal.measurement.zzfu: com.google.android.gms.internal.measurement.zzfi zzh
+androidx.appcompat.widget.ActionMenuView: int getWindowAnimations()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: void setOnDescendantFocusChangeListener(android.view.View$OnFocusChangeListener)
+com.google.android.gms.internal.measurement.zzgb: int zze
+com.google.firestore.v1.DocumentChange: com.google.protobuf.Internal$IntList removedTargetIds_
+com.google.firebase.firestore.proto.MaybeDocument: com.google.firebase.firestore.proto.MaybeDocument DEFAULT_INSTANCE
+com.google.android.gms.internal.measurement.zzgt: com.google.android.gms.internal.measurement.zzke zzg
+androidx.appcompat.widget.ViewStubCompat
+com.google.firestore.v1.BatchGetDocumentsRequest
+androidx.appcompat.widget.AppCompatSpinner: void setDropDownVerticalOffset(int)
+com.google.firestore.v1.TransactionOptions$ReadWrite: int RETRY_TRANSACTION_FIELD_NUMBER
+com.google.android.gms.measurement.AppMeasurement: long generateEventId()
+androidx.appcompat.widget.Toolbar: void setTitleTextColor(android.content.res.ColorStateList)
+com.google.android.gms.internal.measurement.zzgd: com.google.android.gms.internal.measurement.zzkd zzf
+com.google.firestore.v1.StructuredQuery$Direction: com.google.firestore.v1.StructuredQuery$Direction valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat valueOf(java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: java.lang.Integer getRecordFlutterId(android.view.View,android.view.accessibility.AccessibilityRecord)
+com.google.firebase.firestore.core.LimboDocumentChange$Type: com.google.firebase.firestore.core.LimboDocumentChange$Type[] values()
+com.google.firestore.v1.StructuredQuery$CollectionSelector: int ALL_DESCENDANTS_FIELD_NUMBER
+com.google.firestore.v1.Target$DocumentsTarget: com.google.protobuf.Parser PARSER
+com.google.firestore.v1.StructuredQuery$Projection: int FIELDS_FIELD_NUMBER
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.internal.measurement.zzeq: java.lang.String zzj
+androidx.appcompat.widget.SearchView: void setOnSearchClickListener(android.view.View$OnClickListener)
+androidx.appcompat.widget.AppCompatImageView: android.graphics.PorterDuff$Mode getSupportImageTintMode()
+com.google.android.gms.internal.measurement.zzfy: com.google.android.gms.internal.measurement.zzfy zze
+com.google.firestore.v1.StructuredQuery$Order: com.google.firestore.v1.StructuredQuery$Order DEFAULT_INSTANCE
+com.google.firestore.v1.StructuredQuery$Order: int direction_
+com.google.firebase.firestore.proto.MaybeDocument: int NO_DOCUMENT_FIELD_NUMBER
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setConsentThirdParty(android.os.Bundle,long)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setUserId(java.lang.String,long)
+com.google.protobuf.AbstractMessageLite: int memoizedHashCode
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.PlatformViewFactory viewFactory
+com.google.android.gms.internal.measurement.zzel: java.lang.String zzi
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzfy: com.google.android.gms.internal.measurement.zzke zzj
+androidx.appcompat.widget.AppCompatCheckBox: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+com.google.firestore.v1.BatchGetDocumentsRequest: int DOCUMENTS_FIELD_NUMBER
+androidx.appcompat.widget.FitWindowsLinearLayout: void setOnFitSystemWindowsListener(androidx.appcompat.widget.FitWindowsViewGroup$OnFitSystemWindowsListener)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setScaleX(float)
+com.google.android.gms.internal.measurement.zzes: boolean zzj
+com.google.android.gms.internal.measurement.zzgt: java.lang.String zzi
+com.google.android.gms.internal.measurement.zzfu
+com.google.protobuf.ProtoSyntax: com.google.protobuf.ProtoSyntax[] values()
+io.flutter.view.FlutterCallbackInformation
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getMaxUserProperties(java.lang.String,com.google.android.gms.internal.measurement.zzcf)
+androidx.media.AudioAttributesCompatParcelizer
+com.google.protobuf.Int32Value: int VALUE_FIELD_NUMBER
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: java.util.Map registeredPlugins
+com.google.firestore.v1.TransactionOptions$ReadOnly
+com.google.firestore.v1.TransactionOptions: java.lang.Object mode_
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void attachToGLContext(int)
+androidx.appcompat.widget.SearchView: void setMaxWidth(int)
+com.google.protobuf.Timestamp: int nanos_
+android.support.v4.media.session.ParcelableVolumeInfo: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.zzn: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void nativeSetViewportMetrics(long,float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setDropDownBackgroundResource(int)
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityFeatures(int)
+androidx.appcompat.widget.SearchView: void setSuggestionsAdapter(androidx.cursoradapter.widget.CursorAdapter)
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getFixedWidthMinor()
+com.google.firestore.v1.StructuredQuery$Order: int DIRECTION_FIELD_NUMBER
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization[] values()
+io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar: FlutterFirebaseCoreRegistrar()
+com.google.android.gms.internal.measurement.zzfy: long zzO
+androidx.appcompat.widget.Toolbar: void setSubtitleTextColor(int)
+com.google.android.gms.internal.measurement.zzeh: com.google.android.gms.internal.measurement.zzeh zza
+com.google.android.gms.internal.measurement.zzgm: int zze
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: ImeSyncDeferringInsetsCallback(android.view.View,int,int)
+com.google.firestore.v1.TransactionOptions$ReadWrite: com.google.protobuf.ByteString retryTransaction_
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzX
+androidx.appcompat.widget.Toolbar: void setTitleMarginStart(int)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+com.google.firestore.v1.DocumentDelete: int REMOVED_TARGET_IDS_FIELD_NUMBER
+com.google.rpc.Status: java.lang.String message_
+com.dooboolab.TauEngine.Flauto$t_RECORDER_STATE: com.dooboolab.TauEngine.Flauto$t_RECORDER_STATE[] values()
+com.google.firebase.firestore.proto.Target
+androidx.appcompat.widget.ActionBarContextView: ActionBarContextView(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.ActionMenuView: int getPopupTheme()
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$AccessibilityDelegatingFrameLayout rootView
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeDeferredComponentInstallFailure(int,java.lang.String,boolean)
+com.google.firestore.admin.v1.Index$IndexField: int ARRAY_CONFIG_FIELD_NUMBER
+com.google.firestore.v1.DocumentTransform: com.google.firestore.v1.DocumentTransform DEFAULT_INSTANCE
+android.support.v4.media.RatingCompat: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.appcompat.widget.AppCompatTextView
+com.google.firestore.v1.Value: int ARRAY_VALUE_FIELD_NUMBER
+com.google.common.util.concurrent.AbstractFuture$Waiter: java.lang.Thread thread
+com.google.firestore.v1.WriteResult: com.google.protobuf.Parser PARSER
+androidx.appcompat.widget.Toolbar: androidx.appcompat.widget.DecorToolbar getWrapper()
+io.grpc.SecurityLevel: io.grpc.SecurityLevel[] values()
+android.support.v4.app.RemoteActionCompatParcelizer
+io.flutter.embedding.android.FlutterView: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider()
+com.google.firestore.v1.StructuredQuery$CompositeFilter: com.google.protobuf.Parser PARSER
+com.google.firestore.v1.Value: int NULL_VALUE_FIELD_NUMBER
+com.google.firestore.v1.Write: int VERIFY_FIELD_NUMBER
+android.support.v4.media.MediaDescriptionCompat
+com.google.firebase.firestore.core.OrderBy$Direction: com.google.firebase.firestore.core.OrderBy$Direction[] values()
+com.google.android.gms.internal.measurement.zzfu: java.lang.String zzf
+com.google.firestore.admin.v1.Index$IndexField: int ORDER_FIELD_NUMBER
+androidx.appcompat.widget.ActionBarContainer: android.view.View getTabContainer()
+androidx.appcompat.widget.Toolbar: int getCurrentContentInsetLeft()
+androidx.appcompat.widget.LinearLayoutCompat: void setWeightSum(float)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void registerOnMeasurementEventListener(com.google.android.gms.internal.measurement.zzci)
+com.google.firebase.firestore.proto.Target: int QUERY_FIELD_NUMBER
+io.grpc.Status$Code: io.grpc.Status$Code[] values()
+androidx.appcompat.widget.LinearLayoutCompat: int getOrientation()
+androidx.appcompat.widget.Toolbar: void setCollapseIcon(android.graphics.drawable.Drawable)
+io.grpc.Context$DirectExecutor: io.grpc.Context$DirectExecutor[] values()
+androidx.appcompat.widget.ScrollingTabContainerView
+androidx.appcompat.widget.Toolbar: void setNavigationIcon(android.graphics.drawable.Drawable)
+androidx.media.AudioAttributesCompat
+androidx.appcompat.view.menu.ListMenuItemView: void setForceShowIcon(boolean)
+androidx.appcompat.widget.AppCompatSpinner: java.lang.CharSequence getPrompt()
+io.flutter.embedding.engine.FlutterJNI: FlutterJNI()
+com.google.android.gms.measurement.AppMeasurement: void clearConditionalUserProperty(java.lang.String,java.lang.String,android.os.Bundle)
+androidx.appcompat.widget.LinearLayoutCompat: void setBaselineAlignedChildIndex(int)
+com.google.firestore.v1.ListenResponse
+com.google.firebase.firestore.proto.Target: int LAST_LISTEN_SEQUENCE_NUMBER_FIELD_NUMBER
+androidx.appcompat.widget.Toolbar: void setSubtitleTextColor(android.content.res.ColorStateList)
+androidx.appcompat.widget.Toolbar: int getCurrentContentInsetStart()
+com.google.firestore.v1.DocumentTransform$FieldTransform$TransformTypeCase: com.google.firestore.v1.DocumentTransform$FieldTransform$TransformTypeCase valueOf(java.lang.String)
+com.google.firestore.v1.StructuredQuery$CompositeFilter: int OP_FIELD_NUMBER
+com.google.firebase.firestore.proto.MaybeDocument: int documentTypeCase_
+androidx.appcompat.widget.AppCompatTextView: androidx.core.text.PrecomputedTextCompat$Params getTextMetricsParamsCompat()
+androidx.fragment.app.FragmentManagerViewModel
+com.google.firestore.v1.BatchGetDocumentsResponse$ResultCase: com.google.firestore.v1.BatchGetDocumentsResponse$ResultCase valueOf(java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: android.view.View platformViewOfNode(int)
+com.google.firestore.v1.StructuredQuery$Filter: int FIELD_FILTER_FIELD_NUMBER
+com.google.firebase.components.ComponentDiscoveryService: ComponentDiscoveryService()
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageEmptyResponseCallback(int)
+com.google.firestore.admin.v1.Index: int state_
+com.google.firestore.v1.Write: int TRANSFORM_FIELD_NUMBER
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchSemanticsAction(long,int,int,java.nio.ByteBuffer,int)
+androidx.appcompat.widget.AppCompatRadioButton: void setSupportButtonTintList(android.content.res.ColorStateList)
+com.google.firestore.v1.DocumentChange
+androidx.appcompat.widget.DialogTitle: DialogTitle(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getCollapseContentDescription()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService
+com.google.firestore.v1.Target: int DOCUMENTS_FIELD_NUMBER
+io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+com.google.android.gms.internal.measurement.zzgd: com.google.android.gms.internal.measurement.zzke zzg
+com.google.android.gms.internal.measurement.zzej: boolean zzl
+com.google.firestore.v1.Write$OperationCase: com.google.firestore.v1.Write$OperationCase[] values()
+com.google.protobuf.FieldType$Collection: com.google.protobuf.FieldType$Collection[] values()
+com.google.android.gms.internal.measurement.zzfm
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setFillAlpha(float)
+androidx.appcompat.widget.AppCompatImageView: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceChanged(long,int,int)
+androidx.appcompat.widget.Toolbar: void setOnMenuItemClickListener(androidx.appcompat.widget.Toolbar$OnMenuItemClickListener)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+com.google.firestore.v1.StructuredQuery: com.google.protobuf.Internal$ProtobufList from_
+androidx.core.graphics.drawable.IconCompatParcelizer
+androidx.appcompat.widget.AppCompatTextView: int[] getAutoSizeTextAvailableSizes()
+com.google.android.gms.common.internal.RootTelemetryConfiguration: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.internal.zzj: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.measurement.zzgo: com.google.android.gms.internal.measurement.zzgo zza
+com.google.firestore.v1.BatchGetDocumentsRequest: com.google.firestore.v1.DocumentMask mask_
+com.google.firestore.v1.Document: int NAME_FIELD_NUMBER
+com.google.firestore.v1.TargetChange: com.google.protobuf.Internal$IntList targetIds_
+io.flutter.embedding.engine.FlutterJNI: void ensureAttachedToNative()
+androidx.appcompat.widget.ScrollingTabContainerView: void setAllowCollapse(boolean)
+io.grpc.TlsChannelCredentials$Feature: io.grpc.TlsChannelCredentials$Feature[] values()
+androidx.core.content.ContextCompat$Api23Impl: java.lang.Object getSystemService(android.content.Context,java.lang.Class)
+androidx.appcompat.widget.AppCompatTextView: void setTextMetricsParamsCompat(androidx.core.text.PrecomputedTextCompat$Params)
+com.google.firebase.firestore.core.Query$LimitType: com.google.firebase.firestore.core.Query$LimitType[] values()
+com.google.firebase.components.ComponentDiscoveryService
+com.google.android.gms.measurement.AppMeasurement: java.util.Map getUserProperties(java.lang.String,java.lang.String,boolean)
+com.google.android.gms.internal.measurement.zzcb: zzcb()
+androidx.appcompat.view.menu.ListMenuItemView: void setGroupDividerEnabled(boolean)
+com.google.firestore.v1.WriteRequest: com.google.protobuf.MapFieldLite labels_
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType[] values()
+com.google.android.gms.internal.measurement.zzgd
+com.google.firebase.firestore.proto.UnknownDocument: com.google.firebase.firestore.proto.UnknownDocument DEFAULT_INSTANCE
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+androidx.appcompat.widget.AppCompatImageButton: void setImageURI(android.net.Uri)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getUserProperties(java.lang.String,java.lang.String,boolean,com.google.android.gms.internal.measurement.zzcf)
+com.google.android.gms.internal.measurement.zzfy: int zzf
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState state
+io.flutter.plugin.platform.SingleViewPresentation: boolean startFocused
+io.flutter.plugins.GeneratedPluginRegistrant: java.lang.String TAG
+androidx.appcompat.widget.ActionBarContainer
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void install()
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action valueOf(java.lang.String)
+com.google.firebase.firestore.proto.UnknownDocument: com.google.protobuf.Timestamp version_
+com.google.firebase.firestore.proto.WriteBatch: com.google.firebase.firestore.proto.WriteBatch DEFAULT_INSTANCE
+io.flutter.embedding.engine.FlutterJNI: void nativeMarkTextureFrameAvailable(long,long)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+com.google.firestore.v1.Target: int targetTypeCase_
+com.google.firestore.v1.BatchGetDocumentsResponse: int TRANSACTION_FIELD_NUMBER
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture
+androidx.activity.ComponentActivity$2
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.internal.measurement.zzfy: long zzy
+androidx.appcompat.widget.SearchView$SearchAutoComplete: void setThreshold(int)
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+io.grpc.Context$DirectExecutor: io.grpc.Context$DirectExecutor valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzfc: com.google.android.gms.internal.measurement.zzfc zza
+io.flutter.embedding.engine.FlutterJNI: void setViewportMetrics(float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int)
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: com.google.android.gms.tasks.Task getPluginConstantsForFirebaseApp(com.google.firebase.FirebaseApp)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getCurrentScreenClass(com.google.android.gms.internal.measurement.zzcf)
+androidx.appcompat.widget.AppCompatTextView: void setCustomSelectionActionModeCallback(android.view.ActionMode$Callback)
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: FlutterFirebasePluginRegistry()
+androidx.appcompat.widget.AppCompatSpinner: void setBackgroundResource(int)
+com.google.android.gms.internal.measurement.zzgf: int zzf
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType[] values()
+com.google.firebase.analytics.FirebaseAnalytics: java.lang.String getFirebaseInstanceId()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: android.view.WindowInsets onProgress(android.view.WindowInsets,java.util.List)
+com.google.android.gms.internal.measurement.zzih: int zzb
+io.grpc.okhttp.OkHttpChannelBuilder: io.grpc.okhttp.OkHttpChannelBuilder scheduledExecutorService(java.util.concurrent.ScheduledExecutorService)
+androidx.appcompat.widget.AppCompatImageView: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.appcompat.widget.SearchView$SearchAutoComplete: void setSearchView(androidx.appcompat.widget.SearchView)
+com.google.firestore.v1.ListenResponse: int TARGET_CHANGE_FIELD_NUMBER
+androidx.core.widget.NestedScrollView: void setFillViewport(boolean)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void onActivityStarted(com.google.android.gms.dynamic.IObjectWrapper,long)
+com.google.android.gms.internal.measurement.zzgh: long zzf
+com.google.protobuf.NullValue: com.google.protobuf.NullValue valueOf(java.lang.String)
+androidx.appcompat.widget.Toolbar: void setContentInsetStartWithNavigation(int)
+androidx.lifecycle.FullLifecycleObserverAdapter
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterImageView: android.media.ImageReader getImageReader()
+com.google.firestore.v1.TransactionOptions$ReadWrite: com.google.firestore.v1.TransactionOptions$ReadWrite DEFAULT_INSTANCE
+io.flutter.embedding.engine.FlutterJNI: void nativePrefetchDefaultFontManager()
+com.google.android.gms.internal.measurement.zzgb: int zzf
+com.google.firestore.v1.WriteRequest: int DATABASE_FIELD_NUMBER
+com.google.android.gms.internal.measurement.zzfy: int zzZ
+com.google.android.gms.internal.measurement.zzfc: java.lang.String zzg
+androidx.appcompat.widget.ActivityChooserView$InnerLayout
+com.google.firestore.v1.CommitRequest: com.google.protobuf.ByteString transaction_
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateJavaAssetManager(long,android.content.res.AssetManager,java.lang.String)
+com.google.firestore.v1.Value: int STRING_VALUE_FIELD_NUMBER
+androidx.appcompat.widget.AppCompatTextView: void setLastBaselineToBottomHeight(int)
+com.google.android.gms.internal.measurement.zzgb: com.google.android.gms.internal.measurement.zzgb zza
+com.google.android.gms.internal.measurement.zzfi: int zze
+com.google.android.gms.internal.measurement.zzfq: java.lang.String zzf
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+com.google.android.gms.internal.measurement.zzfk: com.google.android.gms.internal.measurement.zzgd zzg
+com.google.firebase.firestore.proto.NoDocument: com.google.protobuf.Timestamp readTime_
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap decodeImage(java.nio.ByteBuffer,long)
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String previousCompletedSplashIsolate
+androidx.appcompat.widget.SearchView: void setOnQueryTextListener(androidx.appcompat.widget.SearchView$OnQueryTextListener)
+com.google.android.gms.internal.measurement.zzgm
+com.google.firestore.v1.WriteRequest: java.lang.String streamId_
+com.google.firebase.firestore.proto.Target: int TARGET_ID_FIELD_NUMBER
+io.flutter.embedding.engine.FlutterJNI: io.flutter.view.FlutterCallbackInformation nativeLookupCallbackInformation(long)
+androidx.appcompat.widget.SearchView: SearchView(android.content.Context,android.util.AttributeSet,int)
+com.google.firestore.v1.WriteRequest: com.google.protobuf.Internal$ProtobufList writes_
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.AccessibilityEventsDelegate,io.flutter.plugin.platform.SingleViewPresentation$PresentationState,android.view.View$OnFocusChangeListener,boolean)
+com.google.firestore.bundle.BundledQuery: java.lang.Object queryType_
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: android.content.res.ColorStateList getSupportBackgroundTintList()
+com.google.firestore.v1.StructuredQuery$CompositeFilter: com.google.protobuf.Internal$ProtobufList filters_
+androidx.core.content.ContextCompat$Api21Impl: java.io.File getCodeCacheDir(android.content.Context)
+com.google.firestore.v1.DocumentTransform
+com.google.firebase.firestore.proto.NoDocument: com.google.firebase.firestore.proto.NoDocument DEFAULT_INSTANCE
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setDataCollectionEnabled(boolean)
+io.flutter.embedding.engine.FlutterJNI: void addIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo getRootNode(android.view.View,int,android.graphics.Rect)
+androidx.appcompat.widget.ActionMenuView: void setExpandedActionViewsExclusive(boolean)
+com.google.firestore.v1.ListenResponse: int DOCUMENT_REMOVE_FIELD_NUMBER
+androidx.appcompat.widget.Toolbar: android.graphics.drawable.Drawable getOverflowIcon()
+com.google.android.gms.internal.measurement.zzgt: int zzf
+io.flutter.embedding.engine.FlutterJNI: void setAsyncWaitForVsyncDelegate(io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate)
+io.grpc.internal.ManagedChannelImpl$ResolutionState: io.grpc.internal.ManagedChannelImpl$ResolutionState valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface getSurface()
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate accessibilityDelegate
+com.google.firebase.firestore.proto.UnknownDocument
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: HiddenLifecycleReference(androidx.lifecycle.Lifecycle)
+io.grpc.ConnectivityState: io.grpc.ConnectivityState[] values()
+com.google.firestore.v1.StructuredQuery$Projection
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture()
+com.google.android.gms.common.internal.ConnectionTelemetryConfiguration: android.os.Parcelable$Creator CREATOR
+com.google.firestore.v1.StructuredQuery: com.google.firestore.v1.StructuredQuery DEFAULT_INSTANCE
+com.google.firestore.v1.StructuredQuery$CompositeFilter: com.google.firestore.v1.StructuredQuery$CompositeFilter DEFAULT_INSTANCE
+androidx.appcompat.widget.Toolbar: android.view.Menu getMenu()
+com.google.android.gms.internal.measurement.zzes
+android.support.v4.media.session.MediaControllerCompat$MediaControllerImplApi21$ExtraBinderRequestResultReceiver
+com.google.firestore.v1.DocumentRemove: com.google.protobuf.Parser PARSER
+com.google.firestore.v1.BatchGetDocumentsRequest: java.lang.String database_
+com.google.firebase.firestore.core.DocumentViewChange$Type: com.google.firebase.firestore.core.DocumentViewChange$Type valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void remove()
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+com.google.android.gms.internal.measurement.zzfe: int zze
+com.google.firestore.v1.TransactionOptions$ReadWrite: com.google.protobuf.Parser PARSER
+com.google.firestore.v1.DocumentChange: com.google.protobuf.Parser PARSER
+com.google.protobuf.GeneratedMessageLite$MethodToInvoke: com.google.protobuf.GeneratedMessageLite$MethodToInvoke[] values()
+com.google.firestore.v1.ListenResponse: com.google.protobuf.Parser PARSER
+io.flutter.plugins.firebase.core.FlutterFirebasePlugin: java.util.concurrent.ExecutorService cachedThreadPool
+com.google.firebase.heartbeatinfo.HeartBeatInfo$HeartBeat: com.google.firebase.heartbeatinfo.HeartBeatInfo$HeartBeat valueOf(java.lang.String)
+com.google.firestore.v1.TargetChange: com.google.protobuf.Parser PARSER
+com.google.android.gms.internal.measurement.zzjx: com.google.android.gms.internal.measurement.zzmc zzc
+androidx.appcompat.widget.AppCompatTextView: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.appcompat.widget.AppCompatSpinner: void setDropDownWidth(int)
+io.flutter.plugins.firebase.core.FlutterFirebasePlugin
+io.grpc.okhttp.internal.framed.ErrorCode: io.grpc.okhttp.internal.framed.ErrorCode valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatTextView: android.view.textclassifier.TextClassifier getTextClassifier()
+com.google.firestore.admin.v1.Index$IndexField: int valueModeCase_
+androidx.appcompat.widget.AppCompatCheckBox: android.content.res.ColorStateList getSupportButtonTintList()
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterTexture(long,long,java.lang.ref.WeakReference)
+com.google.android.gms.internal.measurement.zzeq: com.google.android.gms.internal.measurement.zzeq zza
+androidx.appcompat.widget.AppCompatEditText: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+com.google.android.gms.internal.measurement.zzfa: java.lang.String zzf
+androidx.appcompat.widget.Toolbar: void setNavigationOnClickListener(android.view.View$OnClickListener)
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzB
+com.google.firestore.v1.StructuredQuery$UnaryFilter$Operator: com.google.firestore.v1.StructuredQuery$UnaryFilter$Operator[] values()
+com.google.firestore.v1.StructuredQuery$FieldFilter: com.google.firestore.v1.StructuredQuery$FieldReference field_
+androidx.appcompat.widget.AppCompatEditText: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+com.google.android.gms.internal.measurement.zzfw: com.google.android.gms.internal.measurement.zzke zze
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setRotation(float)
+com.google.firestore.v1.DocumentTransform$FieldTransform
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$602(io.flutter.embedding.android.FlutterSplashView$SavedState,java.lang.String)
+io.grpc.InternalChannelz$ChannelTrace$Event$Severity: io.grpc.InternalChannelz$ChannelTrace$Event$Severity valueOf(java.lang.String)
+com.google.android.gms.measurement.AppMeasurement: java.lang.String getCurrentScreenClass()
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode[] values()
+androidx.appcompat.widget.AppCompatTextView: int getAutoSizeMaxTextSize()
+androidx.appcompat.widget.AppCompatEditText: android.view.textclassifier.TextClassifier getTextClassifier()
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: void write(androidx.media.AudioAttributesImplApi21,androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.internal.measurement.zzfy: com.google.android.gms.internal.measurement.zzgb zzT
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsetsAnimation$Callback getAnimationCallback()
+com.google.firestore.v1.DocumentTransform$FieldTransform$ServerValue: com.google.firestore.v1.DocumentTransform$FieldTransform$ServerValue valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzgt: int zze
+com.google.firebase.firestore.proto.UnknownDocument: com.google.protobuf.Parser PARSER
+com.google.android.gms.internal.measurement.zzfq: long zzg
+com.google.firestore.v1.StructuredQuery: int FROM_FIELD_NUMBER
+com.google.protobuf.Any: com.google.protobuf.Any DEFAULT_INSTANCE
+com.google.firestore.v1.BatchGetDocumentsRequest: int TRANSACTION_FIELD_NUMBER
+androidx.appcompat.widget.Toolbar: void setLogo(android.graphics.drawable.Drawable)
+com.google.firestore.v1.ListenRequest: com.google.firestore.v1.ListenRequest DEFAULT_INSTANCE
+com.google.android.gms.measurement.AppMeasurementJobService
+io.flutter.embedding.engine.FlutterJNI: void nativeNotifyLowMemoryWarning(long)
+com.google.protobuf.Timestamp: int NANOS_FIELD_NUMBER
+androidx.appcompat.widget.AppCompatImageView: void setImageDrawable(android.graphics.drawable.Drawable)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void logEventAndBundle(java.lang.String,java.lang.String,android.os.Bundle,com.google.android.gms.internal.measurement.zzcf,long)
+io.flutter.embedding.engine.FlutterOverlaySurface: FlutterOverlaySurface(int,android.view.Surface)
+com.google.android.gms.internal.measurement.zzfs: float zzi
+com.google.protobuf.Int32Value
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRRect(int,int,int,int,float[])
+com.google.common.collect.Maps$EntryFunction: com.google.common.collect.Maps$EntryFunction valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode[] values()
+io.flutter.embedding.engine.FlutterJNI: void dispatchEmptyPlatformMessage(java.lang.String,int)
+com.google.firebase.firestore.proto.WriteBatch: int BASE_WRITES_FIELD_NUMBER
+com.google.firestore.v1.Precondition: int UPDATE_TIME_FIELD_NUMBER
+com.google.firestore.v1.Precondition: java.lang.Object conditionType_
+com.google.firestore.v1.Target$DocumentsTarget: com.google.firestore.v1.Target$DocumentsTarget DEFAULT_INSTANCE
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void beginAdUnitExposure(java.lang.String,long)
+androidx.appcompat.widget.AppCompatSpinner: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.core.widget.NestedScrollView: int getScrollRange()
+androidx.appcompat.view.menu.ListMenuItemView: void setTitle(java.lang.CharSequence)
+com.google.android.gms.internal.measurement.zzeq: java.lang.String zzi
+io.flutter.embedding.engine.FlutterJNI: void init(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+com.google.firestore.v1.ExistenceFilter: com.google.protobuf.Parser PARSER
+androidx.media.AudioAttributesImplBaseParcelizer: AudioAttributesImplBaseParcelizer()
+androidx.appcompat.widget.AppCompatButton
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: void setRootAlpha(int)
+com.google.rpc.Status: int code_
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$100(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+com.google.firestore.v1.StructuredQuery$CollectionSelector
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzs
+com.google.firestore.v1.StructuredQuery$FieldReference: com.google.protobuf.Parser PARSER
+androidx.appcompat.widget.ActionBarOverlayLayout: void setIcon(android.graphics.drawable.Drawable)
+io.flutter.embedding.engine.FlutterJNI: void removeIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+io.flutter.embedding.engine.FlutterJNI: void updateSemantics(java.nio.ByteBuffer,java.lang.String[],java.nio.ByteBuffer[])
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback
+com.google.firestore.v1.Value: int BYTES_VALUE_FIELD_NUMBER
+com.google.firestore.bundle.BundledQuery
+androidx.appcompat.widget.AppCompatTextView: int getAutoSizeStepGranularity()
+com.google.rpc.Status: com.google.protobuf.Internal$ProtobufList details_
+com.example.quranapp.MainActivity
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifierBase(int)
+io.flutter.embedding.engine.FlutterJNI: void setPlatformMessageHandler(io.flutter.embedding.engine.dart.PlatformMessageHandler)
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getMinWidthMajor()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$602(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.View)
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mName
+androidx.appcompat.widget.AppCompatEditText
+com.google.android.gms.internal.measurement.zzfy: long zzo
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: void setAlpha(float)
+com.google.firestore.v1.StructuredQuery$FieldFilter
+io.flutter.view.AccessibilityViewEmbedder: AccessibilityViewEmbedder(android.view.View,int)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsVariationSelector(int)
+android.support.v4.media.session.PlaybackStateCompat$CustomAction
+androidx.media.AudioAttributesImplApi21Parcelizer
+com.google.firestore.v1.Value: com.google.firestore.v1.Value DEFAULT_INSTANCE
+com.google.firestore.v1.Target: int QUERY_FIELD_NUMBER
+com.google.common.collect.Maps$EntryFunction: com.google.common.collect.Maps$EntryFunction[] values()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper
+com.google.firestore.v1.BatchGetDocumentsRequest: int NEW_TRANSACTION_FIELD_NUMBER
+com.google.firestore.admin.v1.Index$IndexField: java.lang.Object valueMode_
+io.flutter.embedding.engine.FlutterJNI: long performNativeAttach(io.flutter.embedding.engine.FlutterJNI)
+android.support.v4.media.AudioAttributesCompatParcelizer: androidx.media.AudioAttributesCompat read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType[] values()
+com.google.firestore.v1.StructuredQuery
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+com.google.android.gms.common.api.GoogleApiActivity
+com.google.android.gms.measurement.AppMeasurementService: AppMeasurementService()
+androidx.appcompat.widget.ActivityChooserView$InnerLayout: ActivityChooserView$InnerLayout(android.content.Context,android.util.AttributeSet)
+com.google.firestore.v1.Write: com.google.firestore.v1.Write DEFAULT_INSTANCE
+com.google.firebase.firestore.FirestoreRegistrar: java.util.List getComponents()
+io.flutter.embedding.engine.FlutterJNI: void setLocalizationPlugin(io.flutter.plugin.localization.LocalizationPlugin)
+androidx.appcompat.app.AlertController$RecycleListView
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+com.google.firestore.v1.WriteResponse: int STREAM_ID_FIELD_NUMBER
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getMutators()
+io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar: java.util.List getComponents()
+com.google.firestore.v1.StructuredQuery$Filter: int UNARY_FILTER_FIELD_NUMBER
+com.google.common.util.concurrent.AbstractFuture: com.google.common.util.concurrent.AbstractFuture$Listener listeners
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPath: androidx.core.graphics.PathParser$PathDataNode[] getPathData()
+com.google.firestore.v1.StructuredQuery$FieldFilter: int VALUE_FIELD_NUMBER
+androidx.appcompat.widget.AppCompatImageView: void setBackgroundResource(int)
+androidx.appcompat.widget.AppCompatEditText: android.text.Editable getText()
+androidx.appcompat.widget.SearchView$SearchAutoComplete
+androidx.appcompat.widget.LinearLayoutCompat: void setGravity(int)
+com.google.firestore.v1.Target
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceCreated(android.view.Surface)
+com.google.firestore.v1.DocumentTransform$FieldTransform$ServerValue: com.google.firestore.v1.DocumentTransform$FieldTransform$ServerValue[] values()
+com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar: java.util.List getComponents()
+com.google.android.gms.internal.measurement.zzgd: com.google.android.gms.internal.measurement.zzkd zze
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getPivotX()
+com.google.firebase.firestore.proto.MaybeDocument$DocumentTypeCase: com.google.firebase.firestore.proto.MaybeDocument$DocumentTypeCase valueOf(java.lang.String)
+com.google.firebase.firestore.remote.WatchChange$WatchTargetChangeType: com.google.firebase.firestore.remote.WatchChange$WatchTargetChangeType valueOf(java.lang.String)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void initForTests(java.util.Map)
+com.google.android.gms.internal.measurement.zzfo: java.lang.String zzg
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPlatformMessage(long,java.lang.String,java.nio.ByteBuffer,int,int)
+com.google.android.gms.signin.internal.zab: android.os.Parcelable$Creator CREATOR
+com.google.firestore.v1.WriteResponse: com.google.protobuf.Internal$ProtobufList writeResults_
+androidx.appcompat.widget.AppCompatTextView: android.content.res.ColorStateList getSupportCompoundDrawablesTintList()
+androidx.fragment.app.BackStackState: android.os.Parcelable$Creator CREATOR
+androidx.appcompat.widget.AppCompatImageButton: void setBackgroundResource(int)
+com.google.firebase.firestore.proto.UnknownDocument: int VERSION_FIELD_NUMBER
+androidx.core.widget.NestedScrollView: void setSmoothScrollingEnabled(boolean)
+com.google.protobuf.Writer$FieldOrder: com.google.protobuf.Writer$FieldOrder valueOf(java.lang.String)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+io.flutter.view.AccessibilityViewEmbedder
+androidx.appcompat.widget.Toolbar: void setNavigationIcon(int)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageResponseCallback(long,int,java.nio.ByteBuffer,int)
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+androidx.appcompat.widget.ActionBarOverlayLayout: void setShowingForActionMode(boolean)
+io.flutter.embedding.engine.FlutterJNI: android.os.Looper mainLooper
+com.google.firebase.database.collection.LLRBNode$Color: com.google.firebase.database.collection.LLRBNode$Color valueOf(java.lang.String)
+com.google.firestore.v1.Write: com.google.firestore.v1.Precondition currentDocument_
+com.google.firestore.admin.v1.Index: com.google.protobuf.Internal$ProtobufList fields_
+androidx.appcompat.widget.LinearLayoutCompat: LinearLayoutCompat(android.content.Context,android.util.AttributeSet,int)
+com.google.firestore.v1.WriteRequest: int WRITES_FIELD_NUMBER
+com.google.firestore.v1.WriteResponse: int COMMIT_TIME_FIELD_NUMBER
+androidx.appcompat.widget.AppCompatRadioButton: android.graphics.PorterDuff$Mode getSupportButtonTintMode()
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzab
+com.google.firestore.admin.v1.Index$IndexField: java.lang.String fieldPath_
+androidx.appcompat.view.menu.ExpandedMenuView: int getWindowAnimations()
+androidx.legacy.content.WakefulBroadcastReceiver: WakefulBroadcastReceiver()
+androidx.appcompat.widget.SearchView$SavedState: android.os.Parcelable$Creator CREATOR
+androidx.appcompat.widget.LinearLayoutCompat: int getVirtualChildCount()
+io.flutter.embedding.android.DrawableSplashScreen$DrawableSplashScreenView: void setSplashDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.ViewStubCompat: ViewStubCompat(android.content.Context,android.util.AttributeSet)
+androidx.media.AudioAttributesImplApi21Parcelizer: AudioAttributesImplApi21Parcelizer()
+com.google.android.gms.measurement.AppMeasurement: java.lang.String getGmpAppId()
+io.grpc.okhttp.OkHttpFrameLogger$Direction: io.grpc.okhttp.OkHttpFrameLogger$Direction valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzfy: boolean zzA
+com.google.android.gms.internal.measurement.zzex: com.google.android.gms.internal.measurement.zzex zza
+com.google.firebase.firestore.proto.Target: int targetTypeCase_
+com.google.firestore.v1.WriteRequest: int STREAM_ID_FIELD_NUMBER
+io.flutter.embedding.engine.FlutterJNI: void onEndFrame()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getCachedAppInstanceId(com.google.android.gms.internal.measurement.zzcf)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setSessionTimeoutDuration(long)
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type[] values()
+io.flutter.view.AccessibilityViewEmbedder: io.flutter.view.AccessibilityViewEmbedder$ReflectionAccessors reflectionAccessors
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setCurrentScreen(com.google.android.gms.dynamic.IObjectWrapper,java.lang.String,java.lang.String,long)
+com.google.firestore.v1.MapValue
+com.google.protobuf.WireFormat$JavaType: com.google.protobuf.WireFormat$JavaType valueOf(java.lang.String)
+com.google.android.gms.common.api.GoogleApiActivity: GoogleApiActivity()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness valueOf(java.lang.String)
+com.google.firestore.v1.DocumentDelete
+com.google.protobuf.GeneratedMessageLite$ExtendableMessage
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action)
+com.google.common.util.concurrent.DirectExecutor: com.google.common.util.concurrent.DirectExecutor[] values()
+io.flutter.embedding.engine.FlutterJNI: float refreshRateFPS
+androidx.appcompat.widget.AppCompatCheckedTextView
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType valueOf(java.lang.String)
+androidx.appcompat.widget.AbsActionBarView: void setContentHeight(int)
+com.google.android.gms.measurement.AppMeasurementReceiver
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: android.os.Bundle mTriggeredEventParams
+com.google.android.gms.internal.measurement.zzfs: int zze
+androidx.appcompat.widget.Toolbar: void setCollapseIcon(int)
+com.google.android.gms.internal.measurement.zzeq: int zzf
+androidx.appcompat.widget.ActionBarContainer: void setTabContainer(androidx.appcompat.widget.ScrollingTabContainerView)
+androidx.appcompat.widget.SearchView: void setInputType(int)
+com.google.firestore.v1.ListenRequest: int ADD_TARGET_FIELD_NUMBER
+com.google.firebase.provider.FirebaseInitProvider
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzY
+io.flutter.embedding.engine.FlutterJNI: void addEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+androidx.customview.view.AbsSavedState: android.os.Parcelable$Creator CREATOR
+androidx.appcompat.widget.AppCompatSpinner: void setPopupBackgroundDrawable(android.graphics.drawable.Drawable)
+com.google.firestore.v1.BatchGetDocumentsResponse: int FOUND_FIELD_NUMBER
+com.google.android.gms.internal.measurement.zzes: int zze
+com.google.firestore.v1.TransactionOptions$ReadOnly: int consistencySelectorCase_
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+com.google.firestore.admin.v1.Index$IndexField$ValueModeCase: com.google.firestore.admin.v1.Index$IndexField$ValueModeCase[] values()
+com.google.firebase.firestore.model.FieldIndex$Segment$Kind: com.google.firebase.firestore.model.FieldIndex$Segment$Kind valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatRadioButton: void setButtonDrawable(int)
+io.flutter.embedding.android.FlutterSplashView$SavedState: void writeToParcel(android.os.Parcel,int)
+io.flutter.embedding.engine.FlutterJNI: java.util.Set engineLifecycleListeners
+com.google.android.gms.internal.measurement.zzfi: java.lang.String zzi
+com.google.android.gms.internal.measurement.zzej: int zze
+com.google.firestore.v1.CommitResponse: int COMMIT_TIME_FIELD_NUMBER
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mTimedOutEventName
+androidx.appcompat.widget.Toolbar: void setTitleMarginBottom(int)
+com.google.firestore.v1.StructuredQuery$Projection: com.google.firestore.v1.StructuredQuery$Projection DEFAULT_INSTANCE
+androidx.appcompat.widget.Toolbar: int getContentInsetEnd()
+androidx.media.AudioAttributesImplApi21Parcelizer: void write(androidx.media.AudioAttributesImplApi21,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode[] values()
+com.google.android.gms.measurement.AppMeasurement: java.lang.String getCurrentScreenName()
+androidx.lifecycle.Lifecycling$1
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+com.google.firestore.bundle.BundledQuery: int PARENT_FIELD_NUMBER
+com.google.android.gms.internal.measurement.zzeh: int zzf
+com.google.firestore.v1.Target: int targetId_
+com.google.firestore.v1.CommitRequest: int WRITES_FIELD_NUMBER
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int overlayInsetTypes
+com.google.android.gms.internal.measurement.zzfk: int zzf
+com.google.firestore.v1.Target: int ONCE_FIELD_NUMBER
+androidx.appcompat.widget.AppCompatImageView: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+com.dooboolab.TauEngine.Flauto$t_RECORDER_STATE: com.dooboolab.TauEngine.Flauto$t_RECORDER_STATE valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceChanged(int,int)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getAppInstanceId(com.google.android.gms.internal.measurement.zzcf)
+androidx.appcompat.widget.AbsActionBarView: int getAnimatedVisibility()
+androidx.appcompat.widget.ViewStubCompat: android.view.LayoutInflater getLayoutInflater()
+com.google.firestore.v1.CommitResponse: com.google.protobuf.Parser PARSER
+io.flutter.embedding.engine.FlutterOverlaySurface
+androidx.appcompat.widget.ButtonBarLayout: int getMinimumHeight()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: int getRootAlpha()
+com.google.firebase.FirebaseCommonRegistrar: FirebaseCommonRegistrar()
+com.google.firestore.v1.Write: int UPDATE_TRANSFORMS_FIELD_NUMBER
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceDestroyed()
+com.google.firestore.v1.CommitResponse: com.google.protobuf.Timestamp commitTime_
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushTransform(float[])
+io.grpc.MethodDescriptor$MethodType: io.grpc.MethodDescriptor$MethodType[] values()
+com.google.android.gms.internal.measurement.zzfs: java.lang.String zzf
+androidx.lifecycle.CompositeGeneratedAdaptersObserver
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzr
+androidx.appcompat.widget.AppCompatSpinner: void setAdapter(android.widget.SpinnerAdapter)
+io.flutter.view.AccessibilityViewEmbedder: boolean onAccessibilityHoverEvent(int,android.view.MotionEvent)
+io.flutter.plugin.platform.SingleViewPresentation: int viewId
+android.support.v4.media.session.MediaSessionCompat$QueueItem: android.os.Parcelable$Creator CREATOR
+com.google.rpc.Status
+com.google.firestore.v1.Target: int TARGET_ID_FIELD_NUMBER
+com.google.firestore.v1.Target: int resumeTypeCase_
+androidx.appcompat.widget.LinearLayoutCompat: void setHorizontalGravity(int)
+com.google.android.gms.internal.measurement.zzcb: com.google.android.gms.internal.measurement.zzcc asInterface(android.os.IBinder)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceCreated(long,android.view.Surface)
+com.google.android.gms.internal.measurement.zzfo: int zze
+com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar: com.google.firebase.analytics.connector.AnalyticsConnector lambda$getComponents$0(com.google.firebase.components.ComponentContainer)
+androidx.appcompat.widget.AbsActionBarView: int getContentHeight()
+com.google.android.gms.internal.measurement.zzgh
+com.google.android.gms.internal.measurement.zzbl: com.google.android.gms.internal.measurement.zzbl[] values()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack
+androidx.appcompat.widget.AppCompatCheckBox: android.content.res.ColorStateList getSupportBackgroundTintList()
+com.google.firestore.v1.ListenResponse$ResponseTypeCase: com.google.firestore.v1.ListenResponse$ResponseTypeCase valueOf(java.lang.String)
+com.google.firestore.v1.DocumentTransform: int DOCUMENT_FIELD_NUMBER
+androidx.appcompat.widget.Toolbar: int getContentInsetRight()
+androidx.appcompat.widget.AppCompatEditText: java.lang.CharSequence getText()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void updateTexImage()
+com.google.android.gms.internal.measurement.zzfs: com.google.android.gms.internal.measurement.zzke zzk
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: android.os.Bundle mExpiredEventParams
+androidx.appcompat.widget.LinearLayoutCompat: void setMeasureWithLargestChildEnabled(boolean)
+com.google.android.gms.internal.measurement.zzgd: com.google.android.gms.internal.measurement.zzgd zza
+androidx.appcompat.widget.AppCompatTextView: AppCompatTextView(android.content.Context,android.util.AttributeSet)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.dart.PlatformMessageHandler platformMessageHandler
+com.google.firebase.firestore.proto.WriteBatch: com.google.protobuf.Internal$ProtobufList baseWrites_
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPath: java.lang.String getPathName()
+com.google.firestore.v1.DocumentTransform$FieldTransform: com.google.firestore.v1.DocumentTransform$FieldTransform DEFAULT_INSTANCE
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void initialize(com.google.android.gms.dynamic.IObjectWrapper,com.google.android.gms.internal.measurement.zzcl,long)
+com.google.android.gms.common.internal.ResolveAccountResponse: android.os.Parcelable$Creator CREATOR
+com.google.protobuf.Int32Value: int value_
+com.google.android.gms.measurement.AppMeasurement
+com.google.android.gms.internal.measurement.zzgt
+com.google.android.gms.internal.measurement.zzbn: boolean onTransact(int,android.os.Parcel,android.os.Parcel,int)
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: boolean mActive
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+androidx.appcompat.widget.SearchView: void setQuery(java.lang.CharSequence)
+com.google.firestore.admin.v1.Index$IndexField$Order: com.google.firestore.admin.v1.Index$IndexField$Order[] values()
+com.google.android.gms.internal.measurement.zzgm: com.google.android.gms.internal.measurement.zzke zzg
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterOverlaySurface createOverlaySurface()
+io.grpc.internal.KeepAliveManager$State: io.grpc.internal.KeepAliveManager$State valueOf(java.lang.String)
+com.google.firestore.v1.StructuredQuery$Projection: com.google.protobuf.Parser PARSER
+com.google.firestore.v1.DocumentDelete: int READ_TIME_FIELD_NUMBER
+com.google.firestore.v1.StructuredQuery$FieldReference: int FIELD_PATH_FIELD_NUMBER
+androidx.appcompat.widget.SearchView$SearchAutoComplete: void setImeVisibility(boolean)
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzu
+androidx.appcompat.widget.DropDownListView: void setSelectorEnabled(boolean)
+androidx.appcompat.widget.AppCompatRadioButton: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.media.AudioAttributesCompat: AudioAttributesCompat()
+androidx.appcompat.widget.Toolbar: android.graphics.drawable.Drawable getLogo()
+com.google.android.gms.internal.measurement.zzej: java.lang.String zzg
+androidx.media.AudioAttributesImplApi21: AudioAttributesImplApi21()
+com.google.firestore.v1.DocumentRemove
+androidx.appcompat.widget.ActionBarContextView: void setTitleOptional(boolean)
+androidx.appcompat.widget.ActionBarOverlayLayout: int getActionBarHideOffset()
+androidx.appcompat.widget.SearchView: void setIconified(boolean)
+com.google.firestore.v1.CommitRequest: com.google.protobuf.Parser PARSER
+androidx.appcompat.widget.MenuPopupWindow$MenuDropDownListView: void setHoverListener(androidx.appcompat.widget.MenuItemHoverListener)
+com.google.firebase.firestore.MetadataChanges: com.google.firebase.firestore.MetadataChanges[] values()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getStrokeAlpha()
+com.google.firestore.v1.TargetChange: int TARGET_CHANGE_TYPE_FIELD_NUMBER
+com.google.android.gms.internal.measurement.zzfm: long zzg
+com.google.firestore.v1.BatchGetDocumentsResponse: com.google.protobuf.Parser PARSER
+com.google.android.gms.internal.measurement.zzfi: java.lang.String zzg
+com.google.android.gms.internal.measurement.zzex: java.lang.String zzg
+com.google.android.gms.internal.measurement.zzfy: com.google.android.gms.internal.measurement.zzke zzi
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: AudioAttributesImplApi26Parcelizer()
+io.flutter.embedding.engine.FlutterJNI: java.lang.String observatoryUri
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setPivotY(float)
+com.google.firebase.firestore.proto.WriteBatch: int WRITES_FIELD_NUMBER
+androidx.appcompat.widget.AppCompatRadioButton: void setButtonDrawable(android.graphics.drawable.Drawable)
+com.google.firestore.v1.Precondition: int conditionTypeCase_
+com.google.firestore.v1.BatchGetDocumentsRequest: com.google.firestore.v1.BatchGetDocumentsRequest DEFAULT_INSTANCE
+com.google.firestore.v1.CommitRequest: int DATABASE_FIELD_NUMBER
+androidx.appcompat.widget.ActionBarContainer: void setStackedBackground(android.graphics.drawable.Drawable)
+com.google.android.gms.internal.measurement.zzex: int zze
+com.google.firebase.firestore.MetadataChanges: com.google.firebase.firestore.MetadataChanges valueOf(java.lang.String)
+com.google.firestore.v1.Target$QueryTarget: com.google.firestore.v1.Target$QueryTarget DEFAULT_INSTANCE
+com.google.firestore.v1.Document
+com.google.firestore.bundle.BundledQuery$LimitType: com.google.firestore.bundle.BundledQuery$LimitType valueOf(java.lang.String)
+com.google.android.gms.measurement.internal.zzab: android.os.Parcelable$Creator CREATOR
+androidx.appcompat.widget.Toolbar: Toolbar(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.AppCompatTextView: int getLastBaselineToBottomHeight()
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.localization.LocalizationPlugin localizationPlugin
+com.google.android.gms.internal.measurement.zzfo: long zzi
+android.support.v4.media.MediaMetadataCompat: android.os.Parcelable$Creator CREATOR
+androidx.appcompat.widget.SearchView: void setOnSuggestionListener(androidx.appcompat.widget.SearchView$OnSuggestionListener)
+androidx.appcompat.widget.AppCompatTextView: int getAutoSizeTextType()
+androidx.appcompat.widget.Toolbar$SavedState: android.os.Parcelable$Creator CREATOR
+androidx.appcompat.widget.Toolbar: void setLogo(int)
+com.google.firestore.v1.MapValue: com.google.protobuf.MapFieldLite fields_
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setBackgroundResource(int)
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzP
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPointerDataPacket(long,java.nio.ByteBuffer,int)
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: androidx.media.AudioAttributesImplApi26 read(androidx.versionedparcelable.VersionedParcel)
+com.google.firestore.v1.ExistenceFilter
+com.google.firestore.v1.WriteRequest: com.google.protobuf.Parser PARSER
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle getLifecycle()
+com.google.android.gms.internal.measurement.zzfm: com.google.android.gms.internal.measurement.zzfm zza
+com.google.firebase.database.collection.LLRBNode$Color: com.google.firebase.database.collection.LLRBNode$Color[] values()
+androidx.appcompat.widget.AbsActionBarView: void setVisibility(int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setStrokeWidth(float)
+com.google.firestore.v1.TargetChange$TargetChangeType: com.google.firestore.v1.TargetChange$TargetChangeType valueOf(java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getRotation()
+com.google.firestore.v1.TransactionOptions: int modeCase_
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$600(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceDestroyed(long)
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getTitle()
+io.grpc.TlsChannelCredentials$Feature: io.grpc.TlsChannelCredentials$Feature valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzfy: int zza
+com.google.firestore.v1.StructuredQuery$UnaryFilter$Operator: com.google.firestore.v1.StructuredQuery$UnaryFilter$Operator valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat[] values()
+com.google.firestore.v1.StructuredQuery$Order: com.google.firestore.v1.StructuredQuery$FieldReference field_
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo convertToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,int,android.view.View)
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: java.lang.ClassLoader sClassLoader
+com.google.android.gms.internal.measurement.zzfk: int zze
+com.google.android.gms.dynamite.descriptors.com.google.android.gms.measurement.dynamite.ModuleDescriptor: ModuleDescriptor()
+com.dooboolab.TauEngine.Flauto$t_AUDIO_SOURCE: com.dooboolab.TauEngine.Flauto$t_AUDIO_SOURCE[] values()
+com.google.firestore.v1.DocumentRemove: com.google.protobuf.Timestamp readTime_
+com.google.firebase.firestore.proto.MaybeDocument: java.lang.Object documentType_
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel: LoaderManagerImpl$LoaderViewModel()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setTrimPathStart(float)
+androidx.appcompat.widget.Toolbar: android.content.Context getPopupContext()
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface surface
+io.flutter.embedding.engine.FlutterJNI: void onFirstFrame()
+androidx.appcompat.widget.AppCompatCheckBox: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+com.google.firestore.v1.DocumentTransform$FieldTransform: int APPEND_MISSING_ELEMENTS_FIELD_NUMBER
+androidx.appcompat.widget.SearchView: SearchView(android.content.Context)
+com.google.firestore.v1.ArrayValue: com.google.protobuf.Parser PARSER
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onPrepare(android.view.WindowInsetsAnimation)
+androidx.appcompat.widget.AppCompatTextView: void setAutoSizeTextTypeWithDefaults(int)
+com.google.firebase.firestore.proto.Target: int LAST_LIMBO_FREE_SNAPSHOT_VERSION_FIELD_NUMBER
+com.google.gson.stream.JsonToken: com.google.gson.stream.JsonToken[] values()
+io.grpc.internal.GzipInflatingBuffer$State: io.grpc.internal.GzipInflatingBuffer$State[] values()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType valueOf(java.lang.String)
+com.google.firebase.firestore.core.OnlineState: com.google.firebase.firestore.core.OnlineState valueOf(java.lang.String)
+com.google.firebase.firestore.proto.Target: com.google.protobuf.Timestamp lastLimboFreeSnapshotVersion_
+com.google.android.gms.internal.measurement.zzgt: boolean zzj
+com.google.rpc.Status: int CODE_FIELD_NUMBER
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+androidx.appcompat.widget.SearchView: void setImeOptions(int)
+com.google.android.gms.internal.measurement.zzfy: long zzm
+io.grpc.stub.ClientCalls$StubType: io.grpc.stub.ClientCalls$StubType valueOf(java.lang.String)
+com.google.firebase.firestore.core.ViewSnapshot$SyncState: com.google.firebase.firestore.core.ViewSnapshot$SyncState[] values()
+com.google.firestore.v1.WriteResponse: int STREAM_TOKEN_FIELD_NUMBER
+com.google.firestore.admin.v1.Index$IndexField$Order: com.google.firestore.admin.v1.Index$IndexField$Order valueOf(java.lang.String)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+com.google.firestore.v1.Value: int TIMESTAMP_VALUE_FIELD_NUMBER
+io.grpc.internal.GzipInflatingBuffer$State: io.grpc.internal.GzipInflatingBuffer$State valueOf(java.lang.String)
+androidx.appcompat.widget.Toolbar: void setSubtitle(java.lang.CharSequence)
+androidx.appcompat.widget.AppCompatSpinner: void setAdapter(android.widget.Adapter)
+com.google.android.gms.internal.measurement.zzeh: boolean zzi
+com.google.firebase.firestore.core.UserData$Source: com.google.firebase.firestore.core.UserData$Source valueOf(java.lang.String)
+androidx.core.widget.NestedScrollView: int getNestedScrollAxes()
+androidx.appcompat.widget.ActionBarContextView: void setSubtitle(java.lang.CharSequence)
+com.google.firestore.v1.BatchGetDocumentsRequest: int READ_TIME_FIELD_NUMBER
+androidx.appcompat.view.menu.ListMenuItemView: void setChecked(boolean)
+com.google.android.gms.internal.measurement.zzms: com.google.android.gms.internal.measurement.zzms[] values()
+androidx.appcompat.widget.ButtonBarLayout: void setAllowStacking(boolean)
+androidx.appcompat.widget.LinearLayoutCompat: void setOrientation(int)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsRegionalIndicator(int)
+com.google.protobuf.Timestamp: long seconds_
+com.google.android.gms.internal.measurement.zzes: boolean zzi
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback
+com.google.firestore.v1.Document: com.google.protobuf.Timestamp createTime_
+androidx.appcompat.widget.AppCompatCheckBox: android.graphics.PorterDuff$Mode getSupportButtonTintMode()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void endAdUnitExposure(java.lang.String,long)
+android.support.v4.media.AudioAttributesImplBaseParcelizer
+androidx.appcompat.widget.Toolbar: android.graphics.drawable.Drawable getNavigationIcon()
+io.flutter.embedding.engine.FlutterJNI: void deferredComponentInstallFailure(int,java.lang.String,boolean)
+androidx.appcompat.widget.AppCompatTextView: int getFirstBaselineToTopHeight()
+com.google.firestore.v1.WriteResponse: java.lang.String streamId_
+com.google.firestore.v1.WriteRequest
+io.grpc.okhttp.internal.CipherSuite: io.grpc.okhttp.internal.CipherSuite valueOf(java.lang.String)
+androidx.appcompat.widget.ButtonBarLayout
+android.support.v4.media.session.MediaSessionCompat$Token: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void setPlatformViewsController(io.flutter.plugin.platform.PlatformViewsController)
+androidx.appcompat.widget.ButtonBarLayout: ButtonBarLayout(android.content.Context,android.util.AttributeSet)
+com.google.android.gms.internal.measurement.zzju
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$700(io.flutter.embedding.android.FlutterSplashView$SavedState)
+com.google.firebase.analytics.FirebaseAnalytics: void setCurrentScreen(android.app.Activity,java.lang.String,java.lang.String)
+com.google.firestore.v1.ExistenceFilter: int targetId_
+com.google.firebase.firestore.proto.WriteBatch: int batchId_
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mExpiredEventName
+androidx.appcompat.widget.LinearLayoutCompat: int getDividerPadding()
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzex: int zzf
+com.google.firestore.v1.Target$QueryTarget
+com.google.android.gms.common.ConnectionResult: android.os.Parcelable$Creator CREATOR
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabled(boolean)
+com.google.firebase.firestore.core.OnlineState: com.google.firebase.firestore.core.OnlineState[] values()
+com.google.rpc.Status: com.google.protobuf.Parser PARSER
+androidx.appcompat.widget.AppCompatButton: void setCustomSelectionActionModeCallback(android.view.ActionMode$Callback)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRect(int,int,int,int)
+com.google.firestore.v1.BatchGetDocumentsRequest: int consistencySelectorCase_
+com.google.firestore.v1.StructuredQuery$UnaryFilter: int operandTypeCase_
+com.google.firestore.v1.DocumentDelete: int removedTargetIdsMemoizedSerializedSize
+io.grpc.SecurityLevel: io.grpc.SecurityLevel valueOf(java.lang.String)
+com.google.firestore.v1.DocumentDelete: com.google.protobuf.Parser PARSER
+com.google.firestore.v1.ListenResponse: int responseTypeCase_
+androidx.appcompat.widget.Toolbar: void setPopupTheme(int)
+com.google.firebase.firestore.LoadBundleTaskProgress$TaskState: com.google.firebase.firestore.LoadBundleTaskProgress$TaskState[] values()
+com.google.firestore.v1.WriteResponse: com.google.protobuf.Timestamp commitTime_
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: com.google.android.gms.tasks.Task didReinitializeFirebaseCore()
+androidx.appcompat.view.menu.ListMenuItemView: void setIcon(android.graphics.drawable.Drawable)
+com.google.firebase.analytics.FirebaseAnalytics: com.google.firebase.analytics.FirebaseAnalytics getInstance(android.content.Context)
+io.flutter.view.FlutterCallbackInformation: FlutterCallbackInformation(java.lang.String,java.lang.String,java.lang.String)
+com.google.android.gms.measurement.AppMeasurement: void logEventInternal(java.lang.String,java.lang.String,android.os.Bundle)
+com.google.android.gms.internal.measurement.zzfs: long zzh
+com.google.protobuf.ProtoSyntax: com.google.protobuf.ProtoSyntax valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzfy: int zzL
+androidx.appcompat.widget.ActionMenuView: void setOverflowReserved(boolean)
+com.google.firestore.v1.CommitRequest
+io.grpc.okhttp.OkHttpFrameLogger$SettingParams: io.grpc.okhttp.OkHttpFrameLogger$SettingParams[] values()
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap getBitmap()
+android.support.v4.media.session.MediaSessionCompat$Token
+com.google.android.gms.internal.measurement.zzeq
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap nativeGetBitmap(long)
+com.google.firebase.firestore.proto.Target: com.google.firebase.firestore.proto.Target DEFAULT_INSTANCE
+com.google.firebase.firestore.DocumentChange$Type: com.google.firebase.firestore.DocumentChange$Type[] values()
+com.google.firestore.v1.Document: int UPDATE_TIME_FIELD_NUMBER
+com.google.firebase.firestore.proto.Target: com.google.protobuf.Timestamp snapshotVersion_
+androidx.core.content.ContextCompat$Api23Impl: int getColor(android.content.Context,int)
+androidx.annotation.Keep
+com.google.protobuf.Any: int TYPE_URL_FIELD_NUMBER
+com.google.firestore.v1.StructuredQuery$FieldReference: com.google.firestore.v1.StructuredQuery$FieldReference DEFAULT_INSTANCE
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int deferredInsetTypes
+android.support.v4.media.AudioAttributesImplApi21Parcelizer
+com.google.firestore.v1.MapValue: com.google.protobuf.Parser PARSER
+io.flutter.view.AccessibilityViewEmbedder: void cacheVirtualIdMappings(android.view.View,int,int)
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+androidx.appcompat.widget.Toolbar: void setTitleTextColor(int)
+com.google.protobuf.GeneratedMessageLite$ExtendableMessage: com.google.protobuf.FieldSet extensions
+com.google.firestore.v1.CommitRequest: com.google.firestore.v1.CommitRequest DEFAULT_INSTANCE
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setStrokeAlpha(float)
+io.grpc.internal.KeepAliveManager$State: io.grpc.internal.KeepAliveManager$State[] values()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void unregisterOnMeasurementEventListener(com.google.android.gms.internal.measurement.zzci)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean released
+com.google.firestore.v1.WriteResponse
+androidx.appcompat.widget.ViewStubCompat: void setInflatedId(int)
+io.grpc.okhttp.internal.TlsVersion: io.grpc.okhttp.internal.TlsVersion[] values()
+com.google.android.gms.internal.measurement.zzes: com.google.android.gms.internal.measurement.zzes zza
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: android.graphics.Matrix getLocalMatrix()
+com.google.android.gms.internal.measurement.zzfi: java.lang.String zzj
+com.google.firestore.v1.Document: int FIELDS_FIELD_NUMBER
+android.support.v4.media.AudioAttributesImplBaseParcelizer: androidx.media.AudioAttributesImplBase read(androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.dynamite.descriptors.com.google.android.gms.measurement.dynamite.ModuleDescriptor: java.lang.String MODULE_ID
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzS
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getTranslateX()
+com.google.firestore.v1.Precondition: com.google.firestore.v1.Precondition DEFAULT_INSTANCE
+io.flutter.plugins.firebase.core.FlutterFirebasePlugin: com.google.android.gms.tasks.Task getPluginConstantsForFirebaseApp(com.google.firebase.FirebaseApp)
+com.google.firebase.firestore.proto.MaybeDocument: int UNKNOWN_DOCUMENT_FIELD_NUMBER
+com.google.android.gms.internal.measurement.zzeh
+com.google.firestore.v1.Document: com.google.protobuf.Timestamp updateTime_
+com.dooboolab.TauEngine.Flauto$t_LOG_LEVEL: com.dooboolab.TauEngine.Flauto$t_LOG_LEVEL valueOf(java.lang.String)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setWindowCallback(android.view.Window$Callback)
+com.google.firebase.installations.FirebaseInstallationsException$Status: com.google.firebase.installations.FirebaseInstallationsException$Status[] values()
+androidx.appcompat.widget.AppCompatCheckedTextView: void setCheckMarkDrawable(int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceWindowChanged(long,android.view.Surface)
+com.example.quranapp.MainActivity: MainActivity()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay valueOf(java.lang.String)
+android.support.v4.media.AudioAttributesCompatParcelizer: AudioAttributesCompatParcelizer()
+androidx.appcompat.widget.SearchView: void setQueryHint(java.lang.CharSequence)
+com.google.firestore.v1.DocumentMask: com.google.protobuf.Parser PARSER
+com.google.firestore.bundle.BundledQuery: int limitType_
+androidx.lifecycle.ViewModel: ViewModel()
+android.support.v4.media.AudioAttributesImplBaseParcelizer: AudioAttributesImplBaseParcelizer()
+com.google.android.gms.internal.measurement.zzeh: boolean zzj
+androidx.appcompat.widget.MenuPopupWindow$MenuDropDownListView
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List mutators
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+com.google.firestore.v1.DocumentRemove: int REMOVED_TARGET_IDS_FIELD_NUMBER
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map embeddedViewToDisplayBounds
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.platform.PlatformViewsController platformViewsController
+com.google.firestore.v1.ListenRequest: int targetChangeCase_
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.content.res.ColorStateList getSupportBackgroundTintList()
+com.google.protobuf.Any: java.lang.String typeUrl_
+io.flutter.embedding.engine.FlutterJNI: boolean prefetchDefaultFontManagerCalled
+com.google.android.gms.internal.measurement.zzfe: java.lang.String zzf
+androidx.appcompat.widget.ActionBarOverlayLayout: int getNestedScrollAxes()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setActionBarHideOffset(int)
+androidx.appcompat.widget.ActionMenuView: android.graphics.drawable.Drawable getOverflowIcon()
+com.google.firestore.v1.TransactionOptions$ReadOnly: java.lang.Object consistencySelector_
+io.flutter.embedding.engine.FlutterJNI: void prefetchDefaultFontManager()
+com.google.firestore.v1.DocumentDelete: com.google.protobuf.Internal$IntList removedTargetIds_
+com.google.android.gms.internal.measurement.zzfy: long zzl
+com.google.firestore.v1.WriteRequest: com.google.protobuf.ByteString streamToken_
+com.google.firestore.v1.DocumentChange: int targetIdsMemoizedSerializedSize
+com.google.firestore.v1.WriteResponse: com.google.protobuf.ByteString streamToken_
+androidx.appcompat.widget.AppCompatButton: void setAutoSizeTextTypeWithDefaults(int)
+com.google.firestore.v1.StructuredQuery$UnaryFilter: int OP_FIELD_NUMBER
+io.flutter.embedding.engine.FlutterJNI: void cleanupMessageData(long)
+com.google.android.gms.internal.measurement.zzfa: boolean zzh
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: long mCreationTimestamp
+androidx.appcompat.view.menu.ListMenuItemView: void setCheckable(boolean)
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzI
+com.google.firestore.v1.TargetChange
+io.grpc.util.RoundRobinLoadBalancer$ReadyPicker: int index
+androidx.appcompat.widget.ActionBarOverlayLayout: void setOverlayMode(boolean)
+com.dooboolab.TauEngine.Flauto$t_PLAYER_STATE: com.dooboolab.TauEngine.Flauto$t_PLAYER_STATE[] values()
+com.google.firebase.firestore.core.LimboDocumentChange$Type: com.google.firebase.firestore.core.LimboDocumentChange$Type valueOf(java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VectorDrawableDelegateState: int getChangingConfigurations()
+io.flutter.embedding.engine.FlutterJNI: void nativeInit(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+com.google.firebase.firestore.remote.ConnectivityMonitor$NetworkStatus: com.google.firebase.firestore.remote.ConnectivityMonitor$NetworkStatus valueOf(java.lang.String)
+com.google.firebase.firestore.core.OrderBy$Direction: com.google.firebase.firestore.core.OrderBy$Direction valueOf(java.lang.String)
+com.google.firestore.v1.TargetChange: com.google.protobuf.ByteString resumeToken_
+com.google.firestore.v1.StructuredQuery$CompositeFilter: int FILTERS_FIELD_NUMBER
+com.google.android.gms.internal.measurement.zzeq: int zze
+androidx.appcompat.widget.AppCompatSpinner: android.content.res.ColorStateList getSupportBackgroundTintList()
+com.google.android.gms.internal.measurement.zzfc: boolean zzm
+androidx.appcompat.view.menu.ExpandedMenuView
+com.google.android.gms.common.api.Scope: android.os.Parcelable$Creator CREATOR
+androidx.fragment.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.AudioAttributesImplBaseParcelizer: void write(androidx.media.AudioAttributesImplBase,androidx.versionedparcelable.VersionedParcel)
+androidx.appcompat.widget.Toolbar: void setSubtitle(int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$300(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void logHealthData(int,java.lang.String,com.google.android.gms.dynamic.IObjectWrapper,com.google.android.gms.dynamic.IObjectWrapper,com.google.android.gms.dynamic.IObjectWrapper)
+androidx.appcompat.widget.SearchView: int getSuggestionCommitIconResId()
+com.google.firestore.admin.v1.Index$IndexField: com.google.firestore.admin.v1.Index$IndexField DEFAULT_INSTANCE
+androidx.appcompat.widget.FitWindowsFrameLayout: FitWindowsFrameLayout(android.content.Context,android.util.AttributeSet)
+androidx.media.AudioAttributesImplApi26Parcelizer
+com.google.firestore.v1.StructuredQuery: com.google.protobuf.Int32Value limit_
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Parcelable$Creator CREATOR
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VectorDrawableCompatState
+com.google.firestore.v1.Target: int READ_TIME_FIELD_NUMBER
+com.google.firestore.v1.DocumentChange: int TARGET_IDS_FIELD_NUMBER
+io.flutter.view.AccessibilityViewEmbedder: java.lang.String TAG
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getTrimPathEnd()
+com.google.firestore.v1.Value: int MAP_VALUE_FIELD_NUMBER
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay[] values()
+com.google.android.gms.internal.measurement.zzel: boolean zzh
+com.google.firebase.firestore.proto.MaybeDocument: int HAS_COMMITTED_MUTATIONS_FIELD_NUMBER
+androidx.appcompat.widget.SearchView: int getMaxWidth()
+com.google.firebase.firestore.FirebaseFirestoreException$Code: com.google.firebase.firestore.FirebaseFirestoreException$Code[] values()
+com.google.firestore.v1.StructuredQuery: com.google.firestore.v1.StructuredQuery$Projection select_
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onEnd(android.view.WindowInsetsAnimation)
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature valueOf(java.lang.String)
+io.grpc.Status$Code: io.grpc.Status$Code valueOf(java.lang.String)
+com.google.protobuf.FieldType$Collection: com.google.protobuf.FieldType$Collection valueOf(java.lang.String)
+androidx.appcompat.view.menu.ListMenuItemView: ListMenuItemView(android.content.Context,android.util.AttributeSet)
+com.google.firestore.bundle.BundledQuery$LimitType: com.google.firestore.bundle.BundledQuery$LimitType[] values()
+com.google.android.gms.internal.measurement.zzfy: int zzK
+com.google.firebase.firestore.model.MutableDocument$DocumentType: com.google.firebase.firestore.model.MutableDocument$DocumentType[] values()
+androidx.media.AudioAttributesImplBaseParcelizer
+androidx.appcompat.widget.FitWindowsFrameLayout
+androidx.appcompat.widget.ActionMenuView: void setOverflowIcon(android.graphics.drawable.Drawable)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+com.google.protobuf.WireFormat$FieldType: com.google.protobuf.WireFormat$FieldType[] values()
+androidx.appcompat.widget.ActionBarContextView: void setCustomView(android.view.View)
+com.google.firestore.v1.Target: java.lang.Object targetType_
+com.google.android.gms.internal.measurement.zzfc: int zzh
+androidx.media.AudioAttributesCompatParcelizer: void write(androidx.media.AudioAttributesCompat,androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzQ
+com.google.firestore.v1.ListenRequest: com.google.protobuf.MapFieldLite labels_
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getFinalClippingPaths()
+com.google.android.gms.internal.measurement.zzfc: com.google.android.gms.internal.measurement.zzke zzj
+com.google.protobuf.Any: com.google.protobuf.ByteString value_
+androidx.appcompat.widget.DropDownListView: void setSelector(android.graphics.drawable.Drawable)
+com.google.android.gms.internal.measurement.zzfy: boolean zzac
+com.google.android.gms.internal.measurement.zzfo
+androidx.appcompat.widget.ActionBarContainer: void setVisibility(int)
+androidx.appcompat.widget.ActionMenuView: android.view.Menu getMenu()
+androidx.appcompat.widget.LinearLayoutCompat: void setBaselineAligned(boolean)
+com.google.android.gms.internal.measurement.zzfe: com.google.android.gms.internal.measurement.zzfe zza
+com.google.android.gms.measurement.internal.zzkv: android.os.Parcelable$Creator CREATOR
+androidx.appcompat.widget.ScrollingTabContainerView: void setContentHeight(int)
+com.google.firebase.firestore.proto.WriteBatch: int LOCAL_WRITE_TIME_FIELD_NUMBER
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mTriggerEventName
+com.google.android.gms.internal.measurement.zzgd: com.google.android.gms.internal.measurement.zzke zzh
+com.google.firebase.firestore.model.MutableDocument$DocumentType: com.google.firebase.firestore.model.MutableDocument$DocumentType valueOf(java.lang.String)
+com.google.firestore.v1.TargetChange: int RESUME_TOKEN_FIELD_NUMBER
+io.flutter.embedding.engine.FlutterJNI: void asyncWaitForVsync(long)
+androidx.appcompat.widget.Toolbar: android.view.MenuInflater getMenuInflater()
+androidx.appcompat.widget.DialogTitle
+androidx.media.AudioAttributesImplApi26Parcelizer: void write(androidx.media.AudioAttributesImplApi26,androidx.versionedparcelable.VersionedParcel)
+androidx.savedstate.Recreator
+androidx.appcompat.widget.Toolbar: void setNavigationContentDescription(int)
+com.google.firebase.FirebaseCommonRegistrar
+com.google.firestore.admin.v1.Index: com.google.firestore.admin.v1.Index DEFAULT_INSTANCE
+androidx.appcompat.widget.Toolbar: int getCurrentContentInsetRight()
+com.google.android.gms.internal.measurement.zzeq: boolean zzg
+com.google.firestore.v1.DocumentTransform$FieldTransform: int transformTypeCase_
+com.google.firestore.v1.TransactionOptions: int READ_WRITE_FIELD_NUMBER
+androidx.appcompat.widget.AppCompatSpinner: android.graphics.drawable.Drawable getPopupBackground()
+io.grpc.internal.MessageDeframer$State: io.grpc.internal.MessageDeframer$State[] values()
+androidx.appcompat.widget.ActionBarContextView: java.lang.CharSequence getSubtitle()
+com.google.firebase.firestore.core.FieldFilter$Operator: com.google.firebase.firestore.core.FieldFilter$Operator[] values()
+androidx.appcompat.widget.AppCompatButton: int getAutoSizeStepGranularity()
+com.google.firestore.v1.Write: com.google.protobuf.Internal$ProtobufList updateTransforms_
+io.flutter.view.AccessibilityViewEmbedder: android.util.SparseArray flutterIdToOrigin
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: android.os.Bundle mTimedOutEventParams
+com.google.android.gms.internal.measurement.zzfc: com.google.android.gms.internal.measurement.zzke zzi
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setMeasurementEnabled(boolean,long)
+com.google.firestore.v1.MapValue: com.google.firestore.v1.MapValue DEFAULT_INSTANCE
+io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar: FlutterFirebaseFirestoreRegistrar()
+io.grpc.okhttp.internal.Protocol: io.grpc.okhttp.internal.Protocol[] values()
+com.dooboolab.TauEngine.Flauto$t_CODEC: com.dooboolab.TauEngine.Flauto$t_CODEC valueOf(java.lang.String)
+androidx.appcompat.widget.LinearLayoutCompat: LinearLayoutCompat(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.Toolbar: void setCollapseContentDescription(java.lang.CharSequence)
+io.flutter.embedding.engine.FlutterJNI: void onDisplayOverlaySurface(int,int,int,int,int)
+com.squareup.okhttp.Protocol: com.squareup.okhttp.Protocol valueOf(java.lang.String)
+com.google.firestore.v1.TargetChange$TargetChangeType: com.google.firestore.v1.TargetChange$TargetChangeType[] values()
+com.google.firestore.admin.v1.Index$IndexField$ValueModeCase: com.google.firestore.admin.v1.Index$IndexField$ValueModeCase valueOf(java.lang.String)
+android.support.v4.media.AudioAttributesImplApi26Parcelizer
+androidx.appcompat.widget.ActionBarOverlayLayout: void setLogo(int)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String[] computePlatformResolvedLocale(java.lang.String[])
+com.google.firestore.v1.Value: int BOOLEAN_VALUE_FIELD_NUMBER
+com.google.firebase.firestore.proto.Target: int DOCUMENTS_FIELD_NUMBER
+io.flutter.embedding.engine.FlutterJNI: void onRenderingStopped()
+androidx.media.AudioAttributesImplBase: AudioAttributesImplBase()
+com.google.firebase.firestore.FirestoreRegistrar: FirestoreRegistrar()
+com.google.firestore.v1.BatchGetDocumentsRequest: com.google.protobuf.Internal$ProtobufList documents_
+com.google.common.util.concurrent.AbstractFuture: com.google.common.util.concurrent.AbstractFuture$Waiter waiters
+androidx.media.AudioAttributesImplApi26Parcelizer: AudioAttributesImplApi26Parcelizer()
+androidx.savedstate.SavedStateRegistry$1
+com.google.firebase.firestore.proto.Target: int SNAPSHOT_VERSION_FIELD_NUMBER
+com.google.android.gms.internal.measurement.zzel: com.google.android.gms.internal.measurement.zzeq zzg
+android.support.v4.media.MediaMetadataCompat
+io.flutter.embedding.engine.FlutterJNI: boolean isAttached()
+com.google.firestore.v1.Value: int REFERENCE_VALUE_FIELD_NUMBER
+com.google.firestore.v1.WriteRequest: int STREAM_TOKEN_FIELD_NUMBER
+io.flutter.embedding.engine.FlutterJNI: void requestDartDeferredLibrary(int)
+com.google.firestore.v1.Target$DocumentsTarget: com.google.protobuf.Internal$ProtobufList documents_
+androidx.appcompat.widget.AppCompatTextView: void setLineHeight(int)
+androidx.appcompat.widget.LinearLayoutCompat: void setShowDividers(int)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,int,java.nio.ByteBuffer,int)
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+com.google.firestore.v1.TransactionOptions$ReadWrite
+android.support.v4.media.MediaBrowserCompat$CustomActionResultReceiver
+com.google.firestore.v1.DocumentTransform$FieldTransform: int SET_TO_SERVER_VALUE_FIELD_NUMBER
+androidx.appcompat.widget.AppCompatButton: int getAutoSizeMinTextSize()
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+com.google.firestore.admin.v1.Index: com.google.protobuf.Parser PARSER
+com.google.firestore.v1.Write: java.lang.Object operation_
+com.google.firestore.v1.ExistenceFilter: int TARGET_ID_FIELD_NUMBER
+com.google.android.gms.internal.measurement.zzgh: int zze
+com.google.common.util.concurrent.AbstractFuture$Waiter: com.google.common.util.concurrent.AbstractFuture$Waiter next
+com.google.firestore.v1.DocumentRemove: int READ_TIME_FIELD_NUMBER
+androidx.core.widget.NestedScrollView: float getTopFadingEdgeStrength()
+androidx.appcompat.widget.AppCompatEditText: void setBackgroundResource(int)
+io.flutter.embedding.engine.FlutterJNI: long nativeAttach(io.flutter.embedding.engine.FlutterJNI)
+android.support.v4.media.RatingCompat
+androidx.appcompat.widget.ButtonBarLayout: void setStacked(boolean)
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection valueOf(java.lang.String)
+com.google.firestore.v1.StructuredQuery$Order
+com.google.firestore.v1.ListenResponse: java.lang.Object responseType_
+androidx.appcompat.widget.SearchView: int getInputType()
+androidx.appcompat.widget.AppCompatImageButton: void setSupportImageTintMode(android.graphics.PorterDuff$Mode)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+io.flutter.view.AccessibilityViewEmbedder: void copyAccessibilityFields(android.view.accessibility.AccessibilityNodeInfo,android.view.accessibility.AccessibilityNodeInfo)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture)
+com.google.firestore.v1.BatchGetDocumentsRequest: int DATABASE_FIELD_NUMBER
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: void write(androidx.media.AudioAttributesImplApi26,androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.internal.measurement.zzfy: long zzV
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setStrokeColor(int)
+com.google.firestore.v1.StructuredQuery: int LIMIT_FIELD_NUMBER
+com.google.android.gms.internal.measurement.zzes: java.lang.String zzg
+com.google.firestore.bundle.BundledQuery: int LIMIT_TYPE_FIELD_NUMBER
+androidx.appcompat.widget.AlertDialogLayout: AlertDialogLayout(android.content.Context,android.util.AttributeSet)
+com.google.android.gms.internal.measurement.zzfe: java.lang.String zzg
+com.google.firebase.firestore.proto.Target$TargetTypeCase: com.google.firebase.firestore.proto.Target$TargetTypeCase[] values()
+io.grpc.okhttp.internal.CipherSuite: io.grpc.okhttp.internal.CipherSuite[] values()
+com.google.firestore.v1.Write: com.google.firestore.v1.DocumentMask updateMask_
+io.grpc.okhttp.OkHttpFrameLogger$SettingParams: io.grpc.okhttp.OkHttpFrameLogger$SettingParams valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void setRefreshRateFPS(float)
+io.grpc.internal.ClientStreamListener$RpcProgress: io.grpc.internal.ClientStreamListener$RpcProgress valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzfy: int zzJ
+com.google.android.gms.internal.measurement.zzfo: int zzj
+com.google.protobuf.GeneratedMessageLite: int memoizedSerializedSize
+io.flutter.embedding.engine.FlutterJNI: void nativeLoadDartDeferredLibrary(long,int,java.lang.String[])
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+com.google.firebase.firestore.proto.Target: com.google.protobuf.ByteString resumeToken_
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcelable)
+com.google.android.gms.internal.measurement.zzfo: com.google.android.gms.internal.measurement.zzfo zza
+com.google.android.gms.internal.measurement.zzfu: com.google.android.gms.internal.measurement.zzfu zza
+com.dooboolab.TauEngine.Flauto$t_CODEC: com.dooboolab.TauEngine.Flauto$t_CODEC[] values()
+androidx.appcompat.widget.AppCompatCheckBox: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+com.google.android.gms.internal.measurement.zzfe
+com.google.firestore.v1.BatchGetDocumentsRequest: java.lang.Object consistencySelector_
+io.flutter.plugin.platform.SingleViewPresentation: java.lang.Object createParams
+com.google.firestore.v1.ListenRequest: int DATABASE_FIELD_NUMBER
+com.google.firestore.v1.ListenResponse: int FILTER_FIELD_NUMBER
+com.google.android.gms.internal.measurement.zzgt: java.lang.String zzh
+com.google.firestore.v1.Write: int DELETE_FIELD_NUMBER
+com.google.firestore.v1.Document: com.google.firestore.v1.Document DEFAULT_INSTANCE
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback animationCallback
+com.google.firestore.v1.DocumentTransform$FieldTransform: int FIELD_PATH_FIELD_NUMBER
+android.support.v4.media.MediaDescriptionCompat: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: java.util.concurrent.locks.ReentrantReadWriteLock shellHolderLock
+androidx.core.content.ContextCompat$Api23Impl: android.content.res.ColorStateList getColorStateList(android.content.Context,int)
+io.flutter.embedding.engine.FlutterJNI: void loadDartDeferredLibrary(int,java.lang.String[])
+com.google.firestore.v1.Target$DocumentsTarget: int DOCUMENTS_FIELD_NUMBER
+com.google.firestore.v1.DocumentMask: com.google.firestore.v1.DocumentMask DEFAULT_INSTANCE
+com.google.firestore.v1.DocumentDelete: com.google.firestore.v1.DocumentDelete DEFAULT_INSTANCE
+com.google.firebase.firestore.LoadBundleTaskProgress$TaskState: com.google.firebase.firestore.LoadBundleTaskProgress$TaskState valueOf(java.lang.String)
+com.google.firebase.firestore.DocumentSnapshot$ServerTimestampBehavior: com.google.firebase.firestore.DocumentSnapshot$ServerTimestampBehavior[] values()
+com.google.android.gms.internal.measurement.zzfm: int zze
+com.google.firestore.v1.StructuredQuery$FieldFilter$Operator: com.google.firestore.v1.StructuredQuery$FieldFilter$Operator valueOf(java.lang.String)
+com.google.firestore.v1.StructuredQuery$CompositeFilter: int op_
+androidx.appcompat.widget.AppCompatImageButton: void setSupportImageTintList(android.content.res.ColorStateList)
+io.flutter.embedding.engine.FlutterJNI: void detachFromNativeAndReleaseResources()
+com.google.firebase.firestore.model.MutableDocument$DocumentState: com.google.firebase.firestore.model.MutableDocument$DocumentState[] values()
+com.google.firebase.firestore.proto.WriteBatch: int BATCH_ID_FIELD_NUMBER
+androidx.appcompat.widget.AppCompatImageButton
+com.google.android.gms.measurement.AppMeasurement: java.util.List getConditionalUserProperties(java.lang.String,java.lang.String)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setHideOnContentScrollEnabled(boolean)
+io.flutter.embedding.android.DrawableSplashScreen$DrawableSplashScreenView
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackClassName
+com.google.firestore.v1.Write: com.google.protobuf.Parser PARSER
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getScaleX()
+com.google.android.gms.measurement.AppMeasurement: java.lang.String getAppInstanceId()
+com.google.android.gms.dynamite.descriptors.com.google.android.gms.measurement.dynamite.ModuleDescriptor: int MODULE_VERSION
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void clearMeasurementEnabled(long)
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+androidx.core.widget.NestedScrollView$SavedState: android.os.Parcelable$Creator CREATOR
+io.flutter.plugin.platform.SingleViewPresentation: android.content.Context outerContext
+com.google.android.gms.internal.measurement.zzfy: int zzt
+io.grpc.ConnectivityState: io.grpc.ConnectivityState valueOf(java.lang.String)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix getFinalMatrix()
+com.google.android.gms.internal.measurement.zzgh: float zzj
+com.google.android.gms.internal.measurement.zzej: com.google.android.gms.internal.measurement.zzeq zzj
+com.google.firestore.v1.DocumentChange: com.google.protobuf.Internal$IntList targetIds_
+androidx.appcompat.widget.AppCompatCheckedTextView: void setCustomSelectionActionModeCallback(android.view.ActionMode$Callback)
+com.google.firebase.firestore.core.ViewSnapshot$SyncState: com.google.firebase.firestore.core.ViewSnapshot$SyncState valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatCheckBox: void setButtonDrawable(int)
+io.flutter.embedding.android.FlutterSplashView$SavedState
+io.flutter.embedding.engine.FlutterJNI: java.lang.Long nativeShellHolderId
+com.google.firebase.firestore.proto.NoDocument: com.google.protobuf.Parser PARSER
+com.google.firestore.v1.Precondition
+com.google.firebase.firestore.core.UserData$Source: com.google.firebase.firestore.core.UserData$Source[] values()
+com.google.android.gms.signin.internal.zai: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.measurement.zzeh: int zze
+android.support.v4.media.MediaBrowserCompat$MediaItem: android.os.Parcelable$Creator CREATOR
+com.google.type.LatLng: com.google.protobuf.Parser PARSER
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+androidx.core.content.ContextCompat$Api21Impl: java.io.File getNoBackupFilesDir(android.content.Context)
+com.google.firebase.installations.FirebaseInstallationsException$Status: com.google.firebase.installations.FirebaseInstallationsException$Status valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatRadioButton: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.appcompat.widget.AppCompatSpinner: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+com.google.firestore.v1.StructuredQuery$FieldReference
+androidx.appcompat.view.menu.ActionMenuItemView: void setPopupCallback(androidx.appcompat.view.menu.ActionMenuItemView$PopupCallback)
+io.flutter.view.AccessibilityViewEmbedder: boolean performAction(int,int,android.os.Bundle)
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.Object mValue
+androidx.appcompat.widget.ActionBarContextView: void setContentHeight(int)
+com.google.android.gms.internal.measurement.zzgm: java.lang.String zzf
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: AudioAttributesImplApi21Parcelizer()
+androidx.appcompat.widget.AppCompatRadioButton: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.appcompat.widget.AppCompatRadioButton: android.content.res.ColorStateList getSupportButtonTintList()
+androidx.appcompat.widget.Toolbar: int getContentInsetStartWithNavigation()
+androidx.appcompat.widget.SearchView: void setOnCloseListener(androidx.appcompat.widget.SearchView$OnCloseListener)
+androidx.appcompat.widget.AppCompatTextView: void setTextFuture(java.util.concurrent.Future)
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag[] values()
+com.google.android.gms.internal.measurement.zzfi: java.lang.String zzl
+com.google.firestore.v1.WriteResult
+com.google.android.gms.internal.measurement.zzjx: java.util.Map zza
+com.google.firestore.v1.StructuredQuery$UnaryFilter: java.lang.Object operandType_
+androidx.appcompat.view.menu.ActionMenuItemView: void setCheckable(boolean)
+io.flutter.embedding.engine.FlutterJNI: void nativeUnregisterTexture(long,long)
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageResponseCallback(int,java.nio.ByteBuffer,int)
+com.google.firestore.v1.CommitRequest: com.google.protobuf.Internal$ProtobufList writes_
+com.google.firebase.analytics.FirebaseAnalytics: com.google.android.gms.measurement.internal.zzib getScionFrontendApiImplementation(android.content.Context,android.os.Bundle)
+androidx.appcompat.widget.AppCompatButton: int[] getAutoSizeTextAvailableSizes()
+com.google.android.gms.internal.measurement.zzfy
+com.google.firebase.firestore.model.MutableDocument$DocumentState: com.google.firebase.firestore.model.MutableDocument$DocumentState valueOf(java.lang.String)
+com.google.firestore.v1.DocumentTransform$FieldTransform$TransformTypeCase: com.google.firestore.v1.DocumentTransform$FieldTransform$TransformTypeCase[] values()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void generateEventId(com.google.android.gms.internal.measurement.zzcf)
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState detachState()
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessageResponse(int,java.nio.ByteBuffer)
+com.google.protobuf.NullValue: com.google.protobuf.NullValue[] values()
+androidx.core.widget.NestedScrollView: void setNestedScrollingEnabled(boolean)
+com.google.type.LatLng: int LONGITUDE_FIELD_NUMBER
+com.google.firestore.v1.DocumentTransform$FieldTransform: int MAXIMUM_FIELD_NUMBER
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: long mTriggeredTimestamp
+com.google.android.gms.internal.measurement.zzel: com.google.android.gms.internal.measurement.zzel zza
+com.google.firestore.v1.DocumentRemove: java.lang.String document_
+com.google.firestore.v1.Target: com.google.firestore.v1.Target DEFAULT_INSTANCE
+android.support.v4.media.session.PlaybackStateCompat: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.measurement.zzjx: int zzd
+com.google.firestore.v1.Precondition$ConditionTypeCase: com.google.firestore.v1.Precondition$ConditionTypeCase valueOf(java.lang.String)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.appcompat.widget.AppCompatEditText: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.appcompat.widget.AppCompatSpinner
+com.google.firestore.bundle.BundledQuery: java.lang.String parent_
+com.google.firebase.firestore.DocumentChange$Type: com.google.firebase.firestore.DocumentChange$Type valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzes: int zzf
+com.google.firebase.installations.local.PersistedInstallation$RegistrationStatus: com.google.firebase.installations.local.PersistedInstallation$RegistrationStatus valueOf(java.lang.String)
+io.grpc.okhttp.OkHttpChannelBuilder: io.grpc.okhttp.OkHttpChannelBuilder transportExecutor(java.util.concurrent.Executor)
+androidx.appcompat.view.menu.ActionMenuItemView
+com.google.firestore.v1.Value
+androidx.appcompat.widget.Toolbar: android.graphics.drawable.Drawable getCollapseIcon()
+com.google.protobuf.Any: com.google.protobuf.Parser PARSER
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.PlatformView getView()
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides[] values()
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void onActivityResumed(com.google.android.gms.dynamic.IObjectWrapper,long)
+com.google.firestore.v1.TargetChange: int targetChangeType_
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+io.flutter.embedding.engine.FlutterJNI: boolean getIsSoftwareRenderingEnabled()
+androidx.appcompat.widget.ViewStubCompat: void setLayoutInflater(android.view.LayoutInflater)
+androidx.appcompat.widget.ViewStubCompat: void setLayoutResource(int)
+androidx.appcompat.widget.ActionBarContainer: void setSplitBackground(android.graphics.drawable.Drawable)
+io.flutter.embedding.android.FlutterTextureView: void setRenderSurface(android.view.Surface)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType[] values()
+com.google.protobuf.Int32Value: com.google.protobuf.Int32Value DEFAULT_INSTANCE
+com.google.protobuf.GeneratedMessageLite: java.util.Map defaultInstanceMap
+androidx.appcompat.widget.Toolbar: int getPopupTheme()
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: void registerPlugin(java.lang.String,io.flutter.plugins.firebase.core.FlutterFirebasePlugin)
+com.google.protobuf.GeneratedMessageLite: com.google.protobuf.UnknownFieldSetLite unknownFields
+com.google.firestore.v1.Document: com.google.protobuf.MapFieldLite fields_
+androidx.appcompat.widget.SearchView: androidx.cursoradapter.widget.CursorAdapter getSuggestionsAdapter()
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$600(io.flutter.embedding.android.FlutterSplashView$SavedState)
+io.flutter.embedding.engine.FlutterJNI: void registerTexture(long,io.flutter.embedding.engine.renderer.SurfaceTextureWrapper)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void performAction(android.os.Bundle,com.google.android.gms.internal.measurement.zzcf,long)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView
+com.google.common.util.concurrent.DirectExecutor: com.google.common.util.concurrent.DirectExecutor valueOf(java.lang.String)
+android.support.v4.media.MediaBrowserCompat$ItemReceiver
+androidx.appcompat.view.menu.ActionMenuItemView: void setIcon(android.graphics.drawable.Drawable)
+io.flutter.embedding.engine.FlutterJNI: void loadLibrary()
+io.flutter.embedding.engine.FlutterJNI
+com.google.gson.stream.JsonToken: com.google.gson.stream.JsonToken valueOf(java.lang.String)
+com.google.firestore.v1.WriteRequest: java.lang.String database_
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageEmptyResponseCallback(long,int)
+com.google.firebase.firestore.FirebaseFirestore: void setClientLanguage(java.lang.String)
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action[] values()
+io.grpc.okhttp.internal.framed.HeadersMode: io.grpc.okhttp.internal.framed.HeadersMode valueOf(java.lang.String)
+com.google.firestore.v1.BatchGetDocumentsResponse$ResultCase: com.google.firestore.v1.BatchGetDocumentsResponse$ResultCase[] values()
+com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+com.google.android.gms.internal.measurement.zzgf: com.google.android.gms.internal.measurement.zzgf zza
+com.google.firebase.firestore.proto.WriteBatch
+com.google.firestore.admin.v1.Index$IndexField: com.google.protobuf.Parser PARSER
+com.google.firebase.heartbeatinfo.HeartBeatInfo$HeartBeat: com.google.firebase.heartbeatinfo.HeartBeatInfo$HeartBeat[] values()
+com.google.android.gms.internal.measurement.zzgt: double zzk
+com.google.android.gms.internal.measurement.zzgh: java.lang.String zzg
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List finalClippingPaths
+com.google.android.gms.internal.measurement.zzex: com.google.android.gms.internal.measurement.zzke zzi
+io.grpc.MethodDescriptor$MethodType: io.grpc.MethodDescriptor$MethodType valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatCheckBox: void setSupportButtonTintList(android.content.res.ColorStateList)
+io.flutter.plugin.platform.SingleViewPresentation: android.view.View$OnFocusChangeListener focusChangeListener
+android.support.v4.media.AudioAttributesCompatParcelizer: void write(androidx.media.AudioAttributesCompat,androidx.versionedparcelable.VersionedParcel)
+com.google.firestore.v1.TransactionOptions$ReadOnly: int READ_TIME_FIELD_NUMBER
+androidx.appcompat.widget.SearchView: void setSearchableInfo(android.app.SearchableInfo)
+com.google.firestore.v1.WriteResult: com.google.firestore.v1.WriteResult DEFAULT_INSTANCE
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getConditionalUserProperties(java.lang.String,java.lang.String,com.google.android.gms.internal.measurement.zzcf)
+com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar: AnalyticsConnectorRegistrar()
+com.google.android.gms.internal.measurement.zzfq: int zze
+io.flutter.embedding.android.FlutterImageView: android.view.Surface getSurface()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeGetIsSoftwareRenderingEnabled()
+com.google.firestore.admin.v1.Index: int STATE_FIELD_NUMBER
+com.google.firestore.admin.v1.Index: int NAME_FIELD_NUMBER
+com.google.firestore.v1.Target: com.google.protobuf.Parser PARSER
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getTranslateY()
+com.google.firestore.v1.Value: com.google.protobuf.Parser PARSER
+com.google.protobuf.WireFormat$FieldType: com.google.protobuf.WireFormat$FieldType valueOf(java.lang.String)
+com.google.android.gms.common.annotation.KeepName
+com.google.android.gms.internal.measurement.zzfk: boolean zzi
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzw
+androidx.appcompat.widget.SearchView: int getSuggestionRowLayout()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View$OnApplyWindowInsetsListener getInsetsListener()
+com.google.android.gms.internal.measurement.zzeh: com.google.android.gms.internal.measurement.zzke zzg
+com.google.firestore.v1.WriteResponse: com.google.protobuf.Parser PARSER
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmoji(int)
+androidx.appcompat.widget.AppCompatTextView: java.lang.CharSequence getText()
+com.google.type.LatLng
+com.google.android.gms.internal.measurement.zzbn: android.os.IBinder asBinder()
+com.google.firestore.v1.StructuredQuery$Direction: com.google.firestore.v1.StructuredQuery$Direction[] values()
+io.flutter.embedding.engine.FlutterJNI: void removeEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+androidx.appcompat.widget.SearchView: java.lang.CharSequence getQuery()
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+com.google.firestore.v1.WriteResult: com.google.protobuf.Internal$ProtobufList transformResults_
+io.flutter.embedding.engine.FlutterJNI: void nativeSetAccessibilityFeatures(long,int)
+com.google.firestore.v1.ListenRequest: java.lang.String database_
+com.dooboolab.TauEngine.Flauto$t_PLAYER_STATE: com.dooboolab.TauEngine.Flauto$t_PLAYER_STATE valueOf(java.lang.String)
+com.google.firestore.v1.StructuredQuery$Filter$FilterTypeCase: com.google.firestore.v1.StructuredQuery$Filter$FilterTypeCase[] values()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getTestFlag(com.google.android.gms.internal.measurement.zzcf,int)
+androidx.appcompat.widget.ActionBarContainer: ActionBarContainer(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.app.AppCompatActivity: void setContentView(android.view.View)
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mAppId
+com.google.firestore.v1.WriteRequest: int LABELS_FIELD_NUMBER
+androidx.appcompat.view.menu.ListMenuItemView
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: long mTriggerTimeout
+androidx.appcompat.widget.Toolbar: void setNavigationContentDescription(java.lang.CharSequence)
+io.grpc.internal.DnsNameResolver$JdkAddressResolver: io.grpc.internal.DnsNameResolver$JdkAddressResolver valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatImageView: void setImageBitmap(android.graphics.Bitmap)
+com.google.android.gms.internal.measurement.zzfi: java.lang.String zzh
+com.google.firestore.v1.StructuredQuery$FieldReference: java.lang.String fieldPath_
+io.flutter.embedding.engine.FlutterJNI: void onPreEngineRestart()
+androidx.core.app.RemoteActionCompatParcelizer
+androidx.appcompat.widget.LinearLayoutCompat: void setVerticalGravity(int)
+com.google.firestore.v1.StructuredQuery: int offset_
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag valueOf(java.lang.String)
+androidx.media.AudioAttributesImplApi21
+androidx.appcompat.widget.AppCompatEditText: void setCustomSelectionActionModeCallback(android.view.ActionMode$Callback)
+androidx.appcompat.widget.ActionBarContainer: void setPrimaryBackground(android.graphics.drawable.Drawable)
+com.google.firebase.firestore.Source: com.google.firebase.firestore.Source[] values()
+com.google.android.gms.internal.measurement.zzfy: boolean zzG
+androidx.media.AudioAttributesImplBaseParcelizer: androidx.media.AudioAttributesImplBase read(androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.internal.measurement.zzfy: long zzW
+com.google.android.gms.internal.measurement.zzej: boolean zzm
+com.google.firestore.v1.TargetChange: com.google.firestore.v1.TargetChange DEFAULT_INSTANCE
+com.google.android.gms.internal.measurement.zzgh: long zzi
+com.google.firebase.installations.FirebaseInstallationsRegistrar: java.util.List getComponents()
+com.google.firestore.v1.Write: int UPDATE_FIELD_NUMBER
+com.google.firestore.v1.StructuredQuery$FieldFilter: com.google.firestore.v1.StructuredQuery$FieldFilter DEFAULT_INSTANCE
+androidx.appcompat.widget.AppCompatImageButton: android.content.res.ColorStateList getSupportImageTintList()
+com.google.firestore.v1.Target$QueryTarget: java.lang.Object queryType_
+androidx.appcompat.widget.Toolbar: void setTitle(int)
+com.google.firestore.v1.TargetChange: int TARGET_IDS_FIELD_NUMBER
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setTrimPathOffset(float)
+com.google.firestore.v1.WriteResponse: com.google.firestore.v1.WriteResponse DEFAULT_INSTANCE
+androidx.core.graphics.drawable.IconCompat
+com.google.firebase.firestore.proto.Target$TargetTypeCase: com.google.firebase.firestore.proto.Target$TargetTypeCase valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatButton: void setSupportAllCaps(boolean)
+androidx.appcompat.widget.MenuPopupWindow$MenuDropDownListView: void setSelector(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.Toolbar: void setTitleMarginEnd(int)
+androidx.core.widget.NestedScrollView
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$202(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodesTranslateBounds(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect,android.view.accessibility.AccessibilityNodeInfo)
+androidx.appcompat.widget.LinearLayoutCompat: LinearLayoutCompat(android.content.Context)
+com.google.android.gms.common.Feature: android.os.Parcelable$Creator CREATOR
+com.google.firestore.v1.ExistenceFilter: int COUNT_FIELD_NUMBER
+com.google.android.gms.internal.measurement.zzej: boolean zzi
+com.google.firebase.firestore.proto.MaybeDocument: int DOCUMENT_FIELD_NUMBER
+androidx.core.content.ContextCompat$Api24Impl: boolean isDeviceProtectedStorage(android.content.Context)
+com.google.firestore.v1.StructuredQuery$Order: com.google.protobuf.Parser PARSER
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void onActivityStopped(com.google.android.gms.dynamic.IObjectWrapper,long)
+com.google.android.gms.internal.measurement.zzfy: long zzn
+com.google.firestore.v1.ArrayValue: com.google.firestore.v1.ArrayValue DEFAULT_INSTANCE
+androidx.appcompat.widget.ActionBarContainer: void setTransitioning(boolean)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: FlutterMutatorsStack()
+androidx.appcompat.widget.AppCompatButton: void setSupportCompoundDrawablesTintMode(android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.ActionBarContextView
+io.flutter.embedding.engine.FlutterJNI: java.lang.String TAG
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzv
+androidx.appcompat.widget.ActionBarContextView: void setTitle(java.lang.CharSequence)
+androidx.appcompat.widget.ContentFrameLayout: ContentFrameLayout(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.SearchView: void setQueryRefinementEnabled(boolean)
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzE
+com.google.firebase.firestore.util.Logger$Level: com.google.firebase.firestore.util.Logger$Level valueOf(java.lang.String)
+com.google.firestore.v1.TransactionOptions: com.google.firestore.v1.TransactionOptions DEFAULT_INSTANCE
+androidx.lifecycle.ReflectiveGenericLifecycleObserver
+io.flutter.view.AccessibilityViewEmbedder: android.view.View rootAccessibilityView
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+androidx.media.AudioAttributesImplApi26: AudioAttributesImplApi26()
+com.google.android.gms.internal.measurement.zzju: com.google.android.gms.internal.measurement.zzjo zza
+com.google.firebase.firestore.proto.WriteBatch: com.google.protobuf.Internal$ProtobufList writes_
+com.google.firestore.v1.Target: java.lang.Object resumeType_
+com.google.android.gms.internal.measurement.zzfi: java.lang.String zzk
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: int getFillColor()
+com.google.firestore.v1.MapValue: int FIELDS_FIELD_NUMBER
+com.google.android.gms.measurement.AppMeasurementReceiver: AppMeasurementReceiver()
+androidx.appcompat.view.menu.ActionMenuItemView: void setTitle(java.lang.CharSequence)
+com.google.android.gms.internal.measurement.zzgb
+com.google.firestore.v1.ListenResponse: com.google.firestore.v1.ListenResponse DEFAULT_INSTANCE
+com.google.android.gms.dynamite.descriptors.com.google.android.gms.measurement.dynamite.ModuleDescriptor
+com.google.rpc.Status: int MESSAGE_FIELD_NUMBER
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean needsSave
+com.google.firestore.v1.ListenRequest: com.google.protobuf.Parser PARSER
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$500(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+com.google.firestore.v1.BatchGetDocumentsRequest: com.google.protobuf.Parser PARSER
+com.google.firestore.admin.v1.Index: int queryScope_
+com.google.firebase.firestore.proto.Target: com.google.protobuf.Parser PARSER
+com.google.firebase.firestore.DocumentSnapshot$ServerTimestampBehavior: com.google.firebase.firestore.DocumentSnapshot$ServerTimestampBehavior valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzfy: com.google.android.gms.internal.measurement.zzfu zzad
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.PlatformViewFactory,io.flutter.plugin.platform.AccessibilityEventsDelegate,int,java.lang.Object,android.view.View$OnFocusChangeListener)
+androidx.appcompat.widget.ActionBarContextView: java.lang.CharSequence getTitle()
+io.grpc.okhttp.OkHttpChannelBuilder: io.grpc.okhttp.OkHttpChannelBuilder sslSocketFactory(javax.net.ssl.SSLSocketFactory)
+com.google.firestore.v1.StructuredQuery$CompositeFilter
+com.google.android.gms.internal.measurement.zzfc: com.google.android.gms.internal.measurement.zzke zzn
+com.google.android.gms.internal.measurement.zzfk: com.google.android.gms.internal.measurement.zzgd zzh
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation[] values()
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceWindowChanged(android.view.Surface)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI spawn(java.lang.String,java.lang.String,java.lang.String)
+com.google.firestore.v1.StructuredQuery$Filter: com.google.protobuf.Parser PARSER
+io.grpc.ChannelLogger$ChannelLogLevel: io.grpc.ChannelLogger$ChannelLogLevel valueOf(java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPath: void setPathData(androidx.core.graphics.PathParser$PathDataNode[])
+com.google.firestore.v1.DocumentChange: int removedTargetIdsMemoizedSerializedSize
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action,java.lang.Object)
+androidx.fragment.app.FragmentState: android.os.Parcelable$Creator CREATOR
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets lastWindowInsets
+android.support.v4.media.session.MediaSessionCompat$ResultReceiverWrapper
+com.google.firebase.firestore.Source: com.google.firebase.firestore.Source valueOf(java.lang.String)
+androidx.appcompat.widget.SearchView: SearchView(android.content.Context,android.util.AttributeSet)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+androidx.appcompat.widget.AppCompatTextView: void setSupportCompoundDrawablesTintList(android.content.res.ColorStateList)
+androidx.media.AudioAttributesCompatParcelizer: androidx.media.AudioAttributesCompat read(androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.internal.measurement.zzfc: com.google.android.gms.internal.measurement.zzke zzk
+com.google.firestore.bundle.BundledQuery: int STRUCTURED_QUERY_FIELD_NUMBER
+com.google.firestore.v1.BatchGetDocumentsResponse: int resultCase_
+androidx.appcompat.widget.Toolbar: int getCurrentContentInsetEnd()
+io.flutter.view.FlutterCallbackInformation: io.flutter.view.FlutterCallbackInformation lookupCallbackInformation(long)
+androidx.appcompat.view.menu.ActionMenuItemView: void setExpandedFormat(boolean)
+io.grpc.internal.ClientStreamListener$RpcProgress: io.grpc.internal.ClientStreamListener$RpcProgress[] values()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setIcon(int)
+com.google.android.gms.measurement.AppMeasurement: void endAdUnitExposure(java.lang.String)
+androidx.appcompat.widget.Toolbar: void setCollapseContentDescription(int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean animating
+io.flutter.embedding.engine.FlutterJNI: java.util.Set flutterUiDisplayListeners
+androidx.core.content.ContextCompat$Api21Impl: android.graphics.drawable.Drawable getDrawable(android.content.Context,int)
+com.google.android.gms.internal.measurement.zzmr: com.google.android.gms.internal.measurement.zzmr[] values()
+com.google.firebase.firestore.model.FieldIndex$Segment$Kind: com.google.firebase.firestore.model.FieldIndex$Segment$Kind[] values()
+io.grpc.internal.SerializingExecutor: int runState
+androidx.appcompat.widget.ViewStubCompat: void setOnInflateListener(androidx.appcompat.widget.ViewStubCompat$OnInflateListener)
+com.google.firestore.v1.Target$QueryTarget: java.lang.String parent_
+androidx.media.AudioAttributesImpl
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setEventInterceptor(com.google.android.gms.internal.measurement.zzci)
+com.google.firebase.firestore.util.AsyncQueue$TimerId: com.google.firebase.firestore.util.AsyncQueue$TimerId valueOf(java.lang.String)
+androidx.appcompat.widget.ActionBarContextView: int getAnimatedVisibility()
+com.google.android.gms.common.internal.ResolveAccountRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setConditionalUserProperty(android.os.Bundle,long)
+androidx.appcompat.widget.Toolbar: android.widget.TextView getSubtitleTextView()
+com.google.firebase.firestore.util.Logger$Level: com.google.firebase.firestore.util.Logger$Level[] values()
+io.flutter.embedding.engine.FlutterJNI: void destroyOverlaySurfaces()
+io.grpc.stub.ClientCalls$StubType: io.grpc.stub.ClientCalls$StubType[] values()
+androidx.appcompat.widget.AppCompatTextView: void setSupportCompoundDrawablesTintMode(android.graphics.PorterDuff$Mode)
+io.flutter.embedding.engine.FlutterJNI: void ensureRunningOnMainThread()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setPivotX(float)
+io.flutter.embedding.engine.FlutterJNI: void notifyLowMemoryWarning()
+com.google.firestore.v1.DocumentMask: int FIELD_PATHS_FIELD_NUMBER
+androidx.appcompat.widget.AppCompatEditText: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+com.google.firestore.v1.DocumentTransform: com.google.protobuf.Internal$ProtobufList fieldTransforms_
+com.google.firebase.provider.FirebaseInitProvider: FirebaseInitProvider()
+androidx.appcompat.widget.AppCompatImageView: void setImageURI(android.net.Uri)
+androidx.appcompat.view.menu.ActionMenuItemView: ActionMenuItemView(android.content.Context,android.util.AttributeSet)
+androidx.versionedparcelable.ParcelImpl
+io.flutter.embedding.android.FlutterTextureView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+io.flutter.view.AccessibilityViewEmbedder: void addChildrenToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+com.google.android.gms.internal.measurement.zzgk: com.google.android.gms.internal.measurement.zzgk zza
+com.google.firestore.v1.DocumentChange: int REMOVED_TARGET_IDS_FIELD_NUMBER
+com.google.firebase.firestore.proto.UnknownDocument: int NAME_FIELD_NUMBER
+com.google.firestore.v1.DocumentChange: int DOCUMENT_FIELD_NUMBER
+io.grpc.okhttp.OkHttpChannelBuilder$NegotiationType: io.grpc.okhttp.OkHttpChannelBuilder$NegotiationType valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterTextureView
+androidx.appcompat.widget.ActionBarOverlayLayout
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup
+com.google.firestore.v1.DocumentDelete: int DOCUMENT_FIELD_NUMBER
+androidx.appcompat.widget.AppCompatRadioButton: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+com.google.firestore.v1.StructuredQuery$Filter: java.lang.Object filterType_
+androidx.appcompat.widget.AppCompatButton: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+com.google.firestore.v1.DocumentTransform$FieldTransform: int INCREMENT_FIELD_NUMBER
+io.grpc.okhttp.internal.Protocol: io.grpc.okhttp.internal.Protocol valueOf(java.lang.String)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getGmpAppId(com.google.android.gms.internal.measurement.zzcf)
+com.google.android.gms.internal.measurement.zzfw: com.google.android.gms.internal.measurement.zzfw zza
+android.support.v4.media.MediaBrowserCompat$MediaItem
+com.google.firestore.v1.Cursor
+com.google.firestore.v1.StructuredQuery$FieldFilter: com.google.protobuf.Parser PARSER
+com.google.firebase.firestore.proto.MaybeDocument$DocumentTypeCase: com.google.firebase.firestore.proto.MaybeDocument$DocumentTypeCase[] values()
+com.google.firestore.v1.Cursor: int BEFORE_FIELD_NUMBER
+com.google.android.gms.measurement.AppMeasurement: int getMaxUserProperties(java.lang.String)
+android.support.v4.os.ResultReceiver: android.os.Parcelable$Creator CREATOR
+androidx.appcompat.widget.ViewStubCompat: int getLayoutResource()
+com.google.firestore.v1.StructuredQuery$CollectionSelector: int COLLECTION_ID_FIELD_NUMBER
+com.google.firestore.v1.ListenRequest: java.lang.Object targetChange_
+com.google.firestore.v1.CommitRequest: java.lang.String database_
+com.google.firestore.v1.StructuredQuery: int SELECT_FIELD_NUMBER
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+androidx.appcompat.widget.ActionBarOverlayLayout: ActionBarOverlayLayout(android.content.Context,android.util.AttributeSet)
+android.support.v4.media.session.MediaSessionCompat$QueueItem
+com.google.firestore.v1.TargetChange: com.google.rpc.Status cause_
+com.google.firestore.v1.DocumentTransform$FieldTransform: java.lang.String fieldPath_
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness valueOf(java.lang.String)
+com.google.firestore.v1.DocumentRemove: com.google.protobuf.Internal$IntList removedTargetIds_
+com.google.protobuf.Any: int VALUE_FIELD_NUMBER
+com.google.android.gms.internal.measurement.zzfo: com.google.android.gms.internal.measurement.zzke zzf
+com.google.firestore.v1.StructuredQuery$Projection: com.google.protobuf.Internal$ProtobufList fields_
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.engine.FlutterEngine getAttachedFlutterEngine()
+com.google.firestore.v1.Precondition: int EXISTS_FIELD_NUMBER
+com.google.firestore.v1.Value: int DOUBLE_VALUE_FIELD_NUMBER
+androidx.appcompat.widget.Toolbar: void setCollapsible(boolean)
+com.google.android.gms.internal.measurement.zzfc: java.lang.String zzl
+com.google.firebase.firestore.util.AsyncQueue$TimerId: com.google.firebase.firestore.util.AsyncQueue$TimerId[] values()
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.AccessibilityEventsDelegate accessibilityEventsDelegate
+com.google.android.gms.measurement.internal.zzar: android.os.Parcelable$Creator CREATOR
+androidx.appcompat.widget.AppCompatImageButton: void setImageResource(int)
+androidx.appcompat.view.menu.ListMenuItemView: void setSubMenuArrowVisible(boolean)
+com.google.android.gms.internal.measurement.zzfa
+androidx.appcompat.view.menu.ActionMenuItemView: void setItemInvoker(androidx.appcompat.view.menu.MenuBuilder$ItemInvoker)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath
+com.google.firestore.v1.DocumentDelete: com.google.protobuf.Timestamp readTime_
+com.google.firestore.v1.StructuredQuery: int OFFSET_FIELD_NUMBER
+com.google.android.gms.common.api.Status: android.os.Parcelable$Creator CREATOR
+androidx.appcompat.widget.AppCompatTextView: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.app.AlertController$RecycleListView: AlertController$RecycleListView(android.content.Context,android.util.AttributeSet)
+com.google.android.gms.internal.measurement.zzfy: int zzg
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void detachFromGLContext()
+com.google.firestore.v1.StructuredQuery$Filter: int filterTypeCase_
+com.google.firebase.firestore.proto.Target: long lastListenSequenceNumber_
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzM
+com.google.protobuf.JavaType: com.google.protobuf.JavaType[] values()
+androidx.appcompat.widget.AppCompatButton: android.content.res.ColorStateList getSupportCompoundDrawablesTintList()
+com.google.firebase.installations.remote.InstallationResponse$ResponseCode: com.google.firebase.installations.remote.InstallationResponse$ResponseCode valueOf(java.lang.String)
+io.grpc.internal.ManagedChannelImpl$ResolutionState: io.grpc.internal.ManagedChannelImpl$ResolutionState[] values()
+androidx.appcompat.widget.AppCompatSpinner: void setDropDownHorizontalOffset(int)
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel
+com.google.firestore.v1.ListenResponse: int DOCUMENT_CHANGE_FIELD_NUMBER
+com.google.firebase.firestore.local.QueryPurpose: com.google.firebase.firestore.local.QueryPurpose valueOf(java.lang.String)
+com.google.firestore.v1.Target$DocumentsTarget
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType valueOf(java.lang.String)
+com.google.firestore.v1.StructuredQuery$FieldFilter: int op_
+androidx.appcompat.view.menu.ListMenuItemView: android.view.LayoutInflater getInflater()
+com.google.firestore.v1.StructuredQuery$CollectionSelector: com.google.protobuf.Parser PARSER
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void isDataCollectionEnabled(com.google.android.gms.internal.measurement.zzcf)
+io.flutter.embedding.engine.FlutterJNI: boolean setRefreshRateFPSCalled
+androidx.appcompat.widget.LinearLayoutCompat: void setDividerDrawable(android.graphics.drawable.Drawable)
+com.google.android.gms.measurement.AppMeasurement: com.google.android.gms.measurement.AppMeasurement getInstance(android.content.Context)
+androidx.appcompat.widget.LinearLayoutCompat: int getDividerWidth()
+androidx.appcompat.widget.AppCompatCheckBox: int getCompoundPaddingLeft()
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getFixedHeightMajor()
+androidx.appcompat.widget.AppCompatImageView: void setSupportImageTintList(android.content.res.ColorStateList)
+com.google.android.gms.internal.measurement.zzfy: com.google.android.gms.internal.measurement.zzke zzH
+com.google.android.gms.internal.measurement.zzeh: com.google.android.gms.internal.measurement.zzke zzh
+com.google.firestore.admin.v1.Index: int QUERY_SCOPE_FIELD_NUMBER
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatImageView: void setImageResource(int)
+com.google.android.gms.internal.measurement.zzel: com.google.android.gms.internal.measurement.zzex zzf
+com.google.firestore.v1.BatchGetDocumentsResponse: java.lang.Object result_
+androidx.core.content.ContextCompat$Api23Impl: java.lang.String getSystemServiceName(android.content.Context,java.lang.Class)
+androidx.activity.OnBackPressedDispatcher$LifecycleOnBackPressedCancellable
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.appcompat.widget.AlertDialogLayout
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setMinimumSessionDuration(long)
+com.google.firestore.v1.TransactionOptions: int READ_ONLY_FIELD_NUMBER
+androidx.media.AudioAttributesImplApi26
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setFillColor(int)
+com.google.protobuf.Timestamp: int SECONDS_FIELD_NUMBER
+com.google.android.gms.measurement.internal.zzat: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void unregisterTexture(long)
+androidx.appcompat.widget.Toolbar: int getContentInsetLeft()
+com.google.type.LatLng: int LATITUDE_FIELD_NUMBER
+io.flutter.embedding.engine.FlutterJNI: void dispatchPointerDataPacket(java.nio.ByteBuffer,int)
+com.google.firebase.firestore.proto.MaybeDocument: com.google.protobuf.Parser PARSER
+com.google.firestore.v1.StructuredQuery$UnaryFilter
+com.google.android.gms.internal.measurement.zzfk: com.google.android.gms.internal.measurement.zzfk zza
+androidx.appcompat.widget.AppCompatButton: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.appcompat.widget.AppCompatRadioButton: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getPivotY()
+androidx.appcompat.view.menu.ActionMenuItemView: void setChecked(boolean)
+androidx.appcompat.widget.Toolbar: void setContentInsetEndWithActions(int)
+com.google.android.gms.auth.api.signin.GoogleSignInAccount: android.os.Parcelable$Creator CREATOR
+androidx.appcompat.widget.AppCompatRadioButton
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcel)
+android.support.v4.media.session.PlaybackStateCompat
+androidx.appcompat.widget.FitWindowsFrameLayout: void setOnFitSystemWindowsListener(androidx.appcompat.widget.FitWindowsViewGroup$OnFitSystemWindowsListener)
+io.flutter.view.AccessibilityViewEmbedder: boolean requestSendAccessibilityEvent(android.view.View,android.view.View,android.view.accessibility.AccessibilityEvent)
+com.google.android.gms.internal.measurement.zzfs: double zzj
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate asyncWaitForVsyncDelegate
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzp
+com.google.android.gms.internal.measurement.zzfa: int zze
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: java.lang.String getGroupName()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+com.google.firestore.bundle.BundledQuery: com.google.firestore.bundle.BundledQuery DEFAULT_INSTANCE
+com.google.firestore.v1.BatchGetDocumentsRequest: int MASK_FIELD_NUMBER
+androidx.appcompat.view.menu.ActionMenuItemView: androidx.appcompat.view.menu.MenuItemImpl getItemData()
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection[] values()
+com.google.android.gms.internal.measurement.zzfs: java.lang.String zzg
+com.google.firestore.v1.TransactionOptions$ReadOnly: com.google.firestore.v1.TransactionOptions$ReadOnly DEFAULT_INSTANCE
+androidx.lifecycle.LiveData$LifecycleBoundObserver
+com.google.firestore.v1.Document: int CREATE_TIME_FIELD_NUMBER
+com.google.android.gms.internal.measurement.zzel: int zze
+com.google.android.gms.internal.measurement.zzfy: long zzk
+com.google.android.gms.internal.measurement.zzfm: int zzf
+androidx.appcompat.widget.AppCompatSpinner: int getDropDownHorizontalOffset()
+androidx.appcompat.widget.DropDownListView: void setListSelectionHidden(boolean)
+androidx.appcompat.widget.AppCompatEditText: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.appcompat.widget.AppCompatSpinner: android.content.Context getPopupContext()
+androidx.appcompat.widget.ActionMenuView: ActionMenuView(android.content.Context,android.util.AttributeSet)
+com.google.firestore.v1.Target$QueryTarget: int STRUCTURED_QUERY_FIELD_NUMBER
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getFillAlpha()
+io.flutter.embedding.engine.FlutterJNI: void setDeferredComponentManager(io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager)
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getSubtitle()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void getTransformMatrix(float[])
+com.google.firestore.v1.Write: int operationCase_
+androidx.appcompat.widget.AppCompatRadioButton: int getCompoundPaddingLeft()
+com.google.android.gms.internal.measurement.zzeq: java.lang.String zzh
+io.flutter.embedding.engine.FlutterJNI: void updateCustomAccessibilityActions(java.nio.ByteBuffer,java.lang.String[])
+android.support.v4.media.session.MediaSessionCompat$ResultReceiverWrapper: android.os.Parcelable$Creator CREATOR
+com.google.firestore.v1.Cursor: com.google.protobuf.Internal$ProtobufList values_
+io.flutter.embedding.engine.FlutterJNI: void onDisplayPlatformView(int,int,int,int,int,int,int,io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack)
+com.google.android.gms.internal.measurement.zzfa: boolean zzg
+androidx.appcompat.widget.AppCompatImageView
+com.google.firestore.v1.BatchGetDocumentsResponse: int READ_TIME_FIELD_NUMBER
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType[] values()
+com.google.android.gms.internal.measurement.zzfy: java.lang.String zzz
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzes: com.google.android.gms.internal.measurement.zzel zzh
+com.google.firestore.v1.Write
+com.google.android.gms.internal.measurement.zzfk
+io.grpc.internal.GrpcUtil$Http2Error: io.grpc.internal.GrpcUtil$Http2Error[] values()
+com.dooboolab.TauEngine.Flauto$t_AUDIO_SOURCE: com.dooboolab.TauEngine.Flauto$t_AUDIO_SOURCE valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterView
+androidx.appcompat.widget.Toolbar: int getTitleMarginTop()
+com.google.android.gms.internal.measurement.zzgo
+io.flutter.plugin.platform.SingleViewPresentation: void onCreate(android.os.Bundle)
+com.google.rpc.Status: com.google.rpc.Status DEFAULT_INSTANCE
+androidx.appcompat.widget.AppCompatCheckBox: void setSupportButtonTintMode(android.graphics.PorterDuff$Mode)
+com.google.type.LatLng: com.google.type.LatLng DEFAULT_INSTANCE
+androidx.appcompat.widget.AppCompatButton: void setBackgroundResource(int)
+com.google.firestore.v1.StructuredQuery$CollectionSelector: boolean allDescendants_
+com.google.android.gms.common.internal.GetServiceRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.measurement.zzfi: java.lang.String zzf
+com.google.firestore.v1.CommitResponse
+io.grpc.okhttp.OkHttpChannelBuilder: io.grpc.okhttp.OkHttpChannelBuilder forTarget(java.lang.String)
+com.google.protobuf.Int32Value: com.google.protobuf.Parser PARSER
+com.google.android.gms.internal.measurement.zzfy: boolean zzaa
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VClipPath
+com.google.firebase.firestore.proto.MaybeDocument
+com.google.firestore.v1.Value$ValueTypeCase: com.google.firestore.v1.Value$ValueTypeCase[] values()
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature[] values()
+androidx.appcompat.widget.Toolbar: void setTitleMarginTop(int)
+androidx.appcompat.widget.FitWindowsLinearLayout: FitWindowsLinearLayout(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.Toolbar: void setOverflowIcon(android.graphics.drawable.Drawable)
+com.google.android.gms.internal.measurement.zzfy: long zzN
+com.google.firestore.v1.WriteRequest: com.google.firestore.v1.WriteRequest DEFAULT_INSTANCE
+com.google.firestore.v1.DocumentRemove: com.google.firestore.v1.DocumentRemove DEFAULT_INSTANCE
+androidx.appcompat.app.AppCompatActivity
+androidx.appcompat.widget.AppCompatSpinner: void setPopupBackgroundResource(int)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetSemanticsEnabled(long,boolean)
+com.google.firestore.v1.DocumentTransform$FieldTransform: int MINIMUM_FIELD_NUMBER
+com.google.firestore.v1.Precondition$ConditionTypeCase: com.google.firestore.v1.Precondition$ConditionTypeCase[] values()
+io.flutter.embedding.engine.FlutterJNI: void runBundleAndSnapshotFromLibrary(java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager)
+androidx.appcompat.widget.AppCompatRadioButton: void setSupportButtonTintMode(android.graphics.PorterDuff$Mode)
+com.google.firebase.firestore.proto.Target: int RESUME_TOKEN_FIELD_NUMBER
+io.flutter.embedding.android.FlutterImageView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.appcompat.widget.AppCompatSpinner: androidx.appcompat.widget.AppCompatSpinner$SpinnerPopup getInternalPopup()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void release()
+com.google.firestore.admin.v1.Index
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: void setDropDownBackgroundResource(int)
+androidx.appcompat.widget.AppCompatSpinner$SavedState: android.os.Parcelable$Creator CREATOR
+androidx.appcompat.widget.AppCompatTextView: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: android.graphics.Matrix getPlatformViewMatrix()
+com.google.firestore.v1.ArrayValue: int VALUES_FIELD_NUMBER
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView
+io.flutter.plugin.platform.SingleViewPresentation

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251737421671",
+    "project_id": "qtrapp-97457",
+    "storage_bucket": "qtrapp-97457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251737421671:android:1454949e4131c965b961c2",
+        "android_client_info": {
+          "package_name": "com.example.quranapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251737421671-22sujhfpeh0bdf6a9fjlv4glko7m1fev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARClhNuAk3EQe74X93iI8KWRSD4odh_ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251737421671-22sujhfpeh0bdf6a9fjlv4glko7m1fev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

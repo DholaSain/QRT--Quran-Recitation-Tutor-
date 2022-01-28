@@ -1,0 +1,197 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.quranapp"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:3:5-67
+11-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:3:22-64
+12    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+13    <!-- <uses-sdk android:minSdkVersion="14" /> -->
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.google.firebase:firebase-firestore:24.0.1] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/f9fb8c47375c4decbe5c90c96bb38682/jetified-firebase-firestore-24.0.1/AndroidManifest.xml:13:5-79
+14-->[com.google.firebase:firebase-firestore:24.0.1] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/f9fb8c47375c4decbe5c90c96bb38682/jetified-firebase-firestore-24.0.1/AndroidManifest.xml:13:22-76
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->[com.google.android.gms:play-services-measurement-api:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b29a524e931434ba4be7cd741d003b51/jetified-play-services-measurement-api-20.0.2/AndroidManifest.xml:24:5-68
+15-->[com.google.android.gms:play-services-measurement-api:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b29a524e931434ba4be7cd741d003b51/jetified-play-services-measurement-api-20.0.2/AndroidManifest.xml:24:22-65
+16    <uses-permission android:name="android.permission.BLUETOOTH" />
+16-->[com.github.canardoux:flutter_sound_core:9.1.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/1b71ceccf64839b76c67354571c74c52/jetified-flutter_sound_core-9.1.0/AndroidManifest.xml:11:5-68
+16-->[com.github.canardoux:flutter_sound_core:9.1.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/1b71ceccf64839b76c67354571c74c52/jetified-flutter_sound_core-9.1.0/AndroidManifest.xml:11:22-65
+17    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+17-->[com.github.canardoux:flutter_sound_core:9.1.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/1b71ceccf64839b76c67354571c74c52/jetified-flutter_sound_core-9.1.0/AndroidManifest.xml:13:5-80
+17-->[com.github.canardoux:flutter_sound_core:9.1.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/1b71ceccf64839b76c67354571c74c52/jetified-flutter_sound_core-9.1.0/AndroidManifest.xml:13:22-77
+18    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Include required permissions for Advertising Id -->
+18-->[com.google.android.gms:play-services-measurement:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b18d94ed09e0483259c4a2aab26dae32/jetified-play-services-measurement-20.0.2/AndroidManifest.xml:26:5-110
+18-->[com.google.android.gms:play-services-measurement:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b18d94ed09e0483259c4a2aab26dae32/jetified-play-services-measurement-20.0.2/AndroidManifest.xml:26:22-107
+19    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+19-->[com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/ba2224cdc533867ff5c92d34aeda358d/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+19-->[com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/ba2224cdc533867ff5c92d34aeda358d/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:22-76
+20
+21    <application
+22        android:name="android.app.Application"
+22-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:6:9-42
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.6.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/4501684f105f116204225bd71498665d/core-1.6.0/AndroidManifest.xml:24:18-86
+24        android:icon="@mipmap/ic_launcher"
+24-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:7:9-43
+25        android:label="QTR" >
+25-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:5:9-28
+26        <activity
+26-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:8:9-28:20
+27            android:name="com.example.quranapp.MainActivity"
+27-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:9:13-41
+28            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+28-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:13:13-163
+29            android:exported="true"
+29-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:10:13-36
+30            android:hardwareAccelerated="true"
+30-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:14:13-47
+31            android:launchMode="singleTop"
+31-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:11:13-43
+32            android:theme="@style/LaunchTheme"
+32-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:12:13-47
+33            android:windowSoftInputMode="adjustResize" >
+33-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:15:13-55
+34
+35            <!--
+36                 Specifies an Android theme to apply to this Activity as soon as
+37                 the Android process has started. This theme is visible to the user
+38                 while the Flutter UI initializes. After that, this theme continues
+39                 to determine the Window background behind the Flutter UI.
+40            -->
+41            <meta-data
+41-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:20:13-23:17
+42                android:name="io.flutter.embedding.android.NormalTheme"
+42-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:21:15-70
+43                android:resource="@style/NormalTheme" />
+43-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:22:15-52
+44
+45            <intent-filter>
+45-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:24:13-27:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:25:17-68
+46-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:25:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:26:17-76
+48-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:26:27-74
+49            </intent-filter>
+50        </activity>
+51        <!--
+52             Don't delete the meta-data below.
+53             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+54        -->
+55        <meta-data
+55-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:31:9-33:33
+56            android:name="flutterEmbedding"
+56-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:32:13-44
+57            android:value="2" />
+57-->/Users/dholasain/Documents/quranapp/android/app/src/main/AndroidManifest.xml:33:13-30
+58
+59        <service
+59-->[:cloud_firestore] /Users/dholasain/Documents/quranapp/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+60            android:name="com.google.firebase.components.ComponentDiscoveryService"
+60-->[:cloud_firestore] /Users/dholasain/Documents/quranapp/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:8:18-89
+61            android:directBootAware="true"
+61-->[com.google.firebase:firebase-common:20.0.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/a43864ea4e098ef6189d5e2b76fd253d/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+62            android:exported="false" >
+62-->[com.google.firebase:firebase-firestore:24.0.1] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/f9fb8c47375c4decbe5c90c96bb38682/jetified-firebase-firestore-24.0.1/AndroidManifest.xml:19:13-37
+63            <meta-data
+63-->[:cloud_firestore] /Users/dholasain/Documents/quranapp/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+64                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
+64-->[:cloud_firestore] /Users/dholasain/Documents/quranapp/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:10:17-134
+65                android:value="com.google.firebase.components.ComponentRegistrar" />
+65-->[:cloud_firestore] /Users/dholasain/Documents/quranapp/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+66            <meta-data
+66-->[:firebase_core] /Users/dholasain/Documents/quranapp/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+67                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
+67-->[:firebase_core] /Users/dholasain/Documents/quranapp/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:10:17-124
+68                android:value="com.google.firebase.components.ComponentRegistrar" />
+68-->[:firebase_core] /Users/dholasain/Documents/quranapp/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+69            <meta-data
+69-->[com.google.firebase:firebase-firestore:24.0.1] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/f9fb8c47375c4decbe5c90c96bb38682/jetified-firebase-firestore-24.0.1/AndroidManifest.xml:20:13-22:85
+70                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+70-->[com.google.firebase:firebase-firestore:24.0.1] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/f9fb8c47375c4decbe5c90c96bb38682/jetified-firebase-firestore-24.0.1/AndroidManifest.xml:21:17-111
+71                android:value="com.google.firebase.components.ComponentRegistrar" />
+71-->[com.google.firebase:firebase-firestore:24.0.1] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/f9fb8c47375c4decbe5c90c96bb38682/jetified-firebase-firestore-24.0.1/AndroidManifest.xml:22:17-82
+72            <meta-data
+72-->[com.google.android.gms:play-services-measurement-api:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b29a524e931434ba4be7cd741d003b51/jetified-play-services-measurement-api-20.0.2/AndroidManifest.xml:30:13-32:85
+73                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+73-->[com.google.android.gms:play-services-measurement-api:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b29a524e931434ba4be7cd741d003b51/jetified-play-services-measurement-api-20.0.2/AndroidManifest.xml:31:17-139
+74                android:value="com.google.firebase.components.ComponentRegistrar" />
+74-->[com.google.android.gms:play-services-measurement-api:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b29a524e931434ba4be7cd741d003b51/jetified-play-services-measurement-api-20.0.2/AndroidManifest.xml:32:17-82
+75            <meta-data
+75-->[com.google.firebase:firebase-installations:17.0.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/cb1ab4a87fd8f7e274083edf83882763/jetified-firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+76                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+76-->[com.google.firebase:firebase-installations:17.0.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/cb1ab4a87fd8f7e274083edf83882763/jetified-firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+77                android:value="com.google.firebase.components.ComponentRegistrar" />
+77-->[com.google.firebase:firebase-installations:17.0.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/cb1ab4a87fd8f7e274083edf83882763/jetified-firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+78        </service>
+79
+80        <provider
+80-->[com.google.firebase:firebase-common:20.0.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/a43864ea4e098ef6189d5e2b76fd253d/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+81            android:name="com.google.firebase.provider.FirebaseInitProvider"
+81-->[com.google.firebase:firebase-common:20.0.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/a43864ea4e098ef6189d5e2b76fd253d/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+82            android:authorities="com.example.quranapp.firebaseinitprovider"
+82-->[com.google.firebase:firebase-common:20.0.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/a43864ea4e098ef6189d5e2b76fd253d/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+83            android:directBootAware="true"
+83-->[com.google.firebase:firebase-common:20.0.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/a43864ea4e098ef6189d5e2b76fd253d/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+84            android:exported="false"
+84-->[com.google.firebase:firebase-common:20.0.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/a43864ea4e098ef6189d5e2b76fd253d/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+85            android:initOrder="100" />
+85-->[com.google.firebase:firebase-common:20.0.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/a43864ea4e098ef6189d5e2b76fd253d/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+86
+87        <receiver
+87-->[com.google.android.gms:play-services-measurement:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b18d94ed09e0483259c4a2aab26dae32/jetified-play-services-measurement-20.0.2/AndroidManifest.xml:29:9-33:20
+88            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+88-->[com.google.android.gms:play-services-measurement:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b18d94ed09e0483259c4a2aab26dae32/jetified-play-services-measurement-20.0.2/AndroidManifest.xml:30:13-85
+89            android:enabled="true"
+89-->[com.google.android.gms:play-services-measurement:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b18d94ed09e0483259c4a2aab26dae32/jetified-play-services-measurement-20.0.2/AndroidManifest.xml:31:13-35
+90            android:exported="false" >
+90-->[com.google.android.gms:play-services-measurement:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b18d94ed09e0483259c4a2aab26dae32/jetified-play-services-measurement-20.0.2/AndroidManifest.xml:32:13-37
+91        </receiver>
+92
+93        <service
+93-->[com.google.android.gms:play-services-measurement:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b18d94ed09e0483259c4a2aab26dae32/jetified-play-services-measurement-20.0.2/AndroidManifest.xml:35:9-38:40
+94            android:name="com.google.android.gms.measurement.AppMeasurementService"
+94-->[com.google.android.gms:play-services-measurement:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b18d94ed09e0483259c4a2aab26dae32/jetified-play-services-measurement-20.0.2/AndroidManifest.xml:36:13-84
+95            android:enabled="true"
+95-->[com.google.android.gms:play-services-measurement:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b18d94ed09e0483259c4a2aab26dae32/jetified-play-services-measurement-20.0.2/AndroidManifest.xml:37:13-35
+96            android:exported="false" />
+96-->[com.google.android.gms:play-services-measurement:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b18d94ed09e0483259c4a2aab26dae32/jetified-play-services-measurement-20.0.2/AndroidManifest.xml:38:13-37
+97        <service
+97-->[com.google.android.gms:play-services-measurement:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b18d94ed09e0483259c4a2aab26dae32/jetified-play-services-measurement-20.0.2/AndroidManifest.xml:39:9-43:72
+98            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+98-->[com.google.android.gms:play-services-measurement:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b18d94ed09e0483259c4a2aab26dae32/jetified-play-services-measurement-20.0.2/AndroidManifest.xml:40:13-87
+99            android:enabled="true"
+99-->[com.google.android.gms:play-services-measurement:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b18d94ed09e0483259c4a2aab26dae32/jetified-play-services-measurement-20.0.2/AndroidManifest.xml:41:13-35
+100            android:exported="false"
+100-->[com.google.android.gms:play-services-measurement:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b18d94ed09e0483259c4a2aab26dae32/jetified-play-services-measurement-20.0.2/AndroidManifest.xml:42:13-37
+101            android:permission="android.permission.BIND_JOB_SERVICE" />
+101-->[com.google.android.gms:play-services-measurement:20.0.2] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/b18d94ed09e0483259c4a2aab26dae32/jetified-play-services-measurement-20.0.2/AndroidManifest.xml:43:13-69
+102
+103        <activity
+103-->[com.google.android.gms:play-services-base:17.1.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/1f9db97eb152a36493e18af28499b1e2/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+104            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+104-->[com.google.android.gms:play-services-base:17.1.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/1f9db97eb152a36493e18af28499b1e2/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+105            android:exported="false"
+105-->[com.google.android.gms:play-services-base:17.1.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/1f9db97eb152a36493e18af28499b1e2/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+106            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+106-->[com.google.android.gms:play-services-base:17.1.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/1f9db97eb152a36493e18af28499b1e2/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+107
+108        <meta-data
+108-->[com.google.android.gms:play-services-basement:18.0.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/6fb421735c13aa7ce9fdc7ac12c637fc/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+109            android:name="com.google.android.gms.version"
+109-->[com.google.android.gms:play-services-basement:18.0.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/6fb421735c13aa7ce9fdc7ac12c637fc/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+110            android:value="@integer/google_play_services_version" />
+110-->[com.google.android.gms:play-services-basement:18.0.0] /Users/dholasain/.gradle/caches/transforms-2/files-2.1/6fb421735c13aa7ce9fdc7ac12c637fc/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+111    </application>
+112
+113</manifest>
